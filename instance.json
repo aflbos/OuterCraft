@@ -15722,7 +15722,247 @@
         "disabled": false,
         "userAdded": false,
         "wasSelected": true,
-        "skipped": false
+        "skipped": false,
+        "curseForgeProjectId": 324564,
+        "curseForgeFileId": 3819822,
+        "curseForgeProject": {
+          "id": 324564,
+          "name": "Amecs (Fabric)",
+          "authors": [
+            {
+              "id": 23798694,
+              "name": "Siphalor",
+              "url": "https://www.curseforge.com/members/23798694-siphalor?username=siphalor"
+            }
+          ],
+          "gameId": 432,
+          "summary": "Improves your keys & controls setup by providing modifier keys and making multi-functional keys a thing.",
+          "categories": [
+            {
+              "name": "API and Library",
+              "slug": "library-api",
+              "url": "https://www.curseforge.com/minecraft/mc-mods/library-api",
+              "dateModified": "2014-05-23T03:21:44.06Z",
+              "gameId": 432,
+              "isClass": false,
+              "id": 421,
+              "iconUrl": "https://media.forgecdn.net/avatars/6/36/635351496947765531.png",
+              "parentCategoryId": 6,
+              "classId": 6
+            },
+            {
+              "name": "Miscellaneous",
+              "slug": "mc-miscellaneous",
+              "url": "https://www.curseforge.com/minecraft/mc-mods/mc-miscellaneous",
+              "dateModified": "2014-06-15T04:27:14.543Z",
+              "gameId": 432,
+              "isClass": false,
+              "id": 425,
+              "iconUrl": "https://media.forgecdn.net/avatars/6/40/635351497693711265.png",
+              "parentCategoryId": 6,
+              "classId": 6
+            }
+          ],
+          "status": 4,
+          "primaryCategoryId": 425,
+          "classId": 6,
+          "slug": "amecs",
+          "isFeatured": false,
+          "dateModified": "2022-12-10T12:36:23.963Z",
+          "dateCreated": "2019-06-17T12:51:26.497Z",
+          "dateReleased": "2022-12-10T11:01:04.677Z",
+          "links": {
+            "websiteUrl": "https://www.curseforge.com/minecraft/mc-mods/amecs",
+            "wikiUrl": "",
+            "issuesUrl": "https://github.com/Siphalor/amecs/issues",
+            "sourceUrl": "https://github.com/Siphalor/amecs"
+          },
+          "logo": {
+            "id": 207107,
+            "description": "",
+            "thumbnailUrl": "https://media.forgecdn.net/avatars/thumbnails/207/107/256/256/636963726865273009.png",
+            "title": "636963726865273009.png",
+            "url": "https://media.forgecdn.net/avatars/207/107/636963726865273009.png",
+            "modId": 324564
+          },
+          "allowModDistribution": true,
+          "screenshots": [],
+          "mainFileId": 4159920
+        },
+        "curseForgeFile": {
+          "id": 3819822,
+          "gameId": 432,
+          "isAvailable": true,
+          "displayName": "[1.19.x] 1.3.8",
+          "fileName": "amecs-1.3.8+mc.1.19-rc2.jar",
+          "releaseType": 1,
+          "fileStatus": 4,
+          "fileDate": "2022-06-06T17:17:14.633Z",
+          "fileLength": 174567,
+          "dependencies": [
+            {
+              "fileId": 0,
+              "modId": 310111,
+              "relationType": 2
+            },
+            {
+              "fileId": 0,
+              "modId": 306612,
+              "relationType": 1
+            }
+          ],
+          "alternateFileId": 0,
+          "modules": [
+            {
+              "fingerprint": 1818520703,
+              "name": "META-INF"
+            },
+            {
+              "fingerprint": 18375977,
+              "name": "LICENSE"
+            },
+            {
+              "fingerprint": 2610430033,
+              "name": "fabric.mod.json"
+            },
+            {
+              "fingerprint": 412803408,
+              "name": "assets"
+            },
+            {
+              "fingerprint": 3341608424,
+              "name": "amecs.mixins.json"
+            },
+            {
+              "fingerprint": 85186585,
+              "name": "amecs-refmap.json"
+            },
+            {
+              "fingerprint": 4031310148,
+              "name": "de"
+            }
+          ],
+          "isServerPack": false,
+          "hashes": [
+            {
+              "value": "88c0fcf573a511760be66c562b14f9a3a056fee2",
+              "algo": 1
+            },
+            {
+              "value": "362c683f5c45ebe5c72c293727d2159f",
+              "algo": 2
+            }
+          ],
+          "sortableGameVersions": [
+            {
+              "gameVersionPadded": "0",
+              "gameVersion": "",
+              "gameVersionReleaseDate": "2019-08-01T00:00:00Z",
+              "gameVersionName": "Fabric"
+            },
+            {
+              "gameVersionPadded": "0000000001.0000000019",
+              "gameVersion": "1.19",
+              "gameVersionReleaseDate": "2022-02-21T00:00:00Z",
+              "gameVersionName": "1.19-Snapshot"
+            },
+            {
+              "gameVersionPadded": "0000000001.0000000019.0000000002",
+              "gameVersion": "1.19.2",
+              "gameVersionReleaseDate": "2022-08-05T14:12:22.413Z",
+              "gameVersionName": "1.19.2"
+            },
+            {
+              "gameVersionPadded": "0000000001.0000000019.0000000001",
+              "gameVersion": "1.19.1",
+              "gameVersionReleaseDate": "2022-06-28T00:00:00Z",
+              "gameVersionName": "1.19.1"
+            },
+            {
+              "gameVersionPadded": "0000000001.0000000019",
+              "gameVersion": "1.19",
+              "gameVersionReleaseDate": "2022-06-07T15:38:07.377Z",
+              "gameVersionName": "1.19"
+            }
+          ],
+          "gameVersions": [
+            "Fabric",
+            "1.19-Snapshot",
+            "1.19.2",
+            "1.19.1",
+            "1.19"
+          ],
+          "fileFingerprint": 2363490481,
+          "modId": 324564
+        },
+        "modrinthProject": {
+          "id": "rcLriA4v",
+          "slug": "amecs",
+          "project_type": "mod",
+          "team": "mUw0WYvU",
+          "title": "Amecs",
+          "description": "Improves your keys & controls setup by providing modifier keys and making multi-functional keys a thing.",
+          "body": "**Requires Fabric API.**\n\n---\n\n## Amecs: Alt-Meta-Escape-Control-Shift\nAmecs is a mod that tries to improve your keyboard immersion. Therefore it introduces several modifier keys (alt, control and shift) for now to give you a larger variety to chose from when making keybindings.\n\nAmecs also removes that annoying key blocking where only one functionality can be associated with a key.\n\n_Disclaimer: Duplicate entries will still turn red to let you know of possibly unwanted collisions._\n\nAnd there's yet another feature: Amecs introduces a search bar for your controls screen! No more searching for that one nasty keybinding in a giant list.\n\nAnd last but not least it adds keybindings for toggling auto jump as well as each of the skin layers.\n\n## Example view\n\n![example](https://i.imgur.com/cm1bkcx.png)",
+          "published": "2022-02-13T07:14:32.639729Z",
+          "updated": "2022-12-10T11:00:58.022003Z",
+          "status": "approved",
+          "license": {
+            "id": "CC0-1.0",
+            "name": "Creative Commons Zero v1.0 Universal"
+          },
+          "client_side": "required",
+          "server_side": "unsupported",
+          "categories": [
+            "utility"
+          ],
+          "icon_url": "https://cdn.modrinth.com/data/rcLriA4v/icon.png",
+          "issues_url": "https://github.com/Siphalor/amecs/issues",
+          "source_url": "https://github.com/Siphalor/amecs",
+          "discord_url": "https://discord.gg/6gaXmbj",
+          "donation_urls": [],
+          "gallery": []
+        },
+        "modrinthVersion": {
+          "id": "RcXP5WO3",
+          "project_id": "rcLriA4v",
+          "author_id": "JJJqUOvE",
+          "name": "[1.19] 1.3.8",
+          "version_number": "1.3.8+mc.1.19-rc2",
+          "changelog": "## Version 1.3.8\n\n- Add a keybinding for alternatives to the escape key.\n  This mainly targets 1.19+, as X11-based key remapping is broken in newer GLFW versions (see MC-252336 and glfw#2011).\n- Mark as client-side-only for older versions of Mod Menu\n\nRelease by Siphalor",
+          "date_published": "2022-06-06T17:17:11.303596Z",
+          "version_type": "release",
+          "files": [
+            {
+              "hashes": {
+                "sha512": "c17b588b3cb2e6c4ad93e705be84b45860d82812a56621640204326d6748d431779d65afb544ae1a8ced21a115adc4d8295a9a4c35e004429dc420ad664433dc",
+                "sha1": "88c0fcf573a511760be66c562b14f9a3a056fee2"
+              },
+              "url": "https://cdn.modrinth.com/data/rcLriA4v/versions/1.3.8%2Bmc.1.19-rc2/amecs-1.3.8%2Bmc.1.19-rc2.jar",
+              "filename": "amecs-1.3.8+mc.1.19-rc2.jar",
+              "primary": true,
+              "size": 174567
+            }
+          ],
+          "dependencies": [],
+          "game_versions": [
+            "22w17a",
+            "22w18a",
+            "22w19a",
+            "1.19-pre1",
+            "1.19-pre2",
+            "1.19-pre3",
+            "1.19-pre4",
+            "1.19-pre5",
+            "1.19-rc1",
+            "1.19-rc2",
+            "1.19",
+            "1.19.1",
+            "1.19.2"
+          ],
+          "loaders": [
+            "fabric"
+          ]
+        }
       },
       {
         "name": "AppleSkin",
@@ -18124,6 +18364,77 @@
           ],
           "fileFingerprint": 2566071334,
           "modId": 388172
+        },
+        "modrinthProject": {
+          "id": "8BmcQJ2H",
+          "slug": "geckolib",
+          "project_type": "mod",
+          "team": "XGT1SohE",
+          "title": "Geckolib",
+          "description": "A 3D animation library for entities, blocks, items, armor, and more!",
+          "body": "<center>\n<img src=\"https://cdn.discordapp.com/attachments/1073846495348019200/1074431979472293999/Image.jpg\" alt=\"logo\"/> \n\n<a href=\"https://discord.gg/sJb8TVjW\"><img src=\"https://img.shields.io/discord/730912704776110121?color=green&label=Discord&logo=Discord&logoColor=green&style=for-the-badge\" alt=\"discord\"/></a> <a href=\"https://www.patreon.com/geckosmods\"><img src=\"https://img.shields.io/endpoint.svg?url=https://shieldsio-patreon.vercel.app/api?username=geckosmods&type=patrons&style=for-the-badge&color=green&logoColor=green\" alt=\"patreon\"/> </a>\n\n<h1 style=\"font-size:10vw\">GeckoLib is an animation engine for Minecraft Mods, with support for complex 3D keyframe-based animations, 30+ easings, concurrent animation support, sound and particle keyframes, event keyframes, and more. Available for Forge 1.12/1.15/1.16/1.17/1.18/1.19, Fabric 1.16/1.17/1.18/1.19, and Quilt 1.18/1.19.</h1>\n\n<img src=\"https://geckolib.com/assets/images/bh_GL_2.png\" alt=\"logo\"/> \n<h3>You can view installation instructions for modders <a href=\"https://github.com/bernie-g/geckolib/wiki/Installation\">here</a>.\n\n</br>\n\nFor non-modders, just download the mod and put it in your mods folder like normal. You can also click the following images for a list of versions for each mod loader.</h3>\n\n<a href=\"#\"><img src=\"https://github.com/intergrav/devins-badges/blob/v2/assets/minimal/requires/fabric-api_64h.png?raw=true\" alt=\"logo\"  width=\"192\" height=\"192\" /> </a><a href=\"#\"><img src=\"https://github.com/intergrav/devins-badges/blob/v2/assets/minimal/supported/forge_64h.png?raw=true\" alt=\"logo\"   width=\"192\" height=\"192\" /> </a><a href=\"#\"><img src=\"https://github.com/intergrav/devins-badges/blob/v2/assets/minimal/requires/quilt-standard-libraries_64h.png?raw=true\" alt=\"logo\"  width=\"192\" height=\"192\" /> </a>\n\n<img src=\"https://geckolib.com/assets/images/bh_GL_3.png\" alt=\"logo\"/> \n\nGeckoLib provides detailed documentation in the form of a <a href=\"https://github.com/bernie-g/geckolib/wiki\">wiki</a>. We spent many hours writing the wiki, so please read it!\n\n<img src=\"https://geckolib.com/assets/images/bh_GL_4.png\" alt=\"logo\"/> \n\nIf you have questions or need help getting up and running with questions, join our discord!\n\n\n<img src=\"https://geckolib.com/assets/images/bh_GL_5.png\" alt=\"logo\"/> \nPull requests are welcome. For significant changes, please open an issue first to discuss what you would like to change.\n\n<a href=\"https://github.com/bernie-g/geckolib\"><img src=\"https://github-readme-stats.vercel.app/api/pin/?username=bernie-g&repo=geckolib&theme=merko\"></a>\n\n<img src=\"https://geckolib.com/assets/images/bh_GL_6.png\" alt=\"logo\"/> \n<img src=\"https://img.shields.io/github/license/bernie-g/geckolib?style=for-the-badge\" alt=\"logo\"/> \n\n<h1 style=\"font-size:10vw\">Sponsored by BisectHosting</h1>\n\nNeed a server to play with friends? Don't know how to setup one? Just rent an already configured server from BisectHosting!\n\n<a href=\"https://bisecthosting.com/gecko\"><img src=\"https://geckolib.com/assets/images/bh_GL_promo.png\" alt=\"logo\"/> </a>\n\nClick on the picture above, select plan(at least 4GB), and use my code gecko to get 25% off your first month and enjoy playing with your friends!\n</center>",
+          "published": "2022-08-07T03:30:16.186586Z",
+          "updated": "2023-03-22T06:22:21.775392Z",
+          "status": "approved",
+          "license": {
+            "id": "MIT",
+            "name": "MIT License"
+          },
+          "client_side": "required",
+          "server_side": "required",
+          "categories": [
+            "game-mechanics",
+            "utility"
+          ],
+          "icon_url": "https://cdn.modrinth.com/data/8BmcQJ2H/7638e6cddbc4d675c3dd874c8be5ae01efcfe31b.png",
+          "issues_url": "https://github.com/bernie-g/geckolib/issues",
+          "source_url": "https://github.com/bernie-g/geckolib",
+          "wiki_url": "https://github.com/bernie-g/geckolib/wiki",
+          "discord_url": "https://discord.gg/sJb8TVjW",
+          "donation_urls": [],
+          "gallery": [
+            {
+              "url": "https://cdn.modrinth.com/data/8BmcQJ2H/images/5e8cd1323a6e90ce6572eae71e109b6a7fb8e5c9.jpeg",
+              "featured": true,
+              "created": "2023-02-13T15:43:35.064485Z",
+              "ordering": 0.0
+            }
+          ]
+        },
+        "modrinthVersion": {
+          "id": "ATPZfRS1",
+          "project_id": "8BmcQJ2H",
+          "author_id": "a6eRm92L",
+          "name": "Fabric 1.19.2",
+          "version_number": "3.1.40",
+          "changelog": "v3.1.40\n\n- Adds enchantment glint to Geckolib Armors.\n- Adds enchantment glint to Geckolib Items.\n\nv3.1.39\n\n- Blacklists gigeresque animation namespace to fix crash. \n\nv3.1.38\n\n- Closes #345\n- Adds priority to HumanoidArmorLayer mixin, help resolve crash with Cosmetic Armor \n\nv3.1.37\n\n- Updates Geckolib default armor with new Gecko armor made by VoutVouniern\n- Fixes issues Glow Layer issue.\n\nv3.1.36\n\n- MClib updated, Fixed -() group not working - Hiroku https://github.com/fadookie/particleman/pull/7\n- Fixes crash with Layer Example animation location call.\n\nv3.1.35\n\n- Fixes crashes due to getUniqueID\n\nv3.1.34\n\n- Deprecate getPackedOverlay for getOverlay, move to non-static to allow Overriding.\n- Move example resources to constants\n\nv3.1.33\n\n- Fixes broken rotation on cubes\n\nv3.1.32\n\n- Adds back getTexture fix.\n\nv3.1.31\n\n- Updates Core with Java 17 changes from pervious PR.\n- Fixes Vanilla Armor Crash with Extended Render.\n- Fixes keyframe issue, fixing animations not playing.\n- Fixes broken movement check for entities. \n- Fixes broken rotations on child bones.\n- Updates Example block entities to EDefaultLoopTypes",
+          "date_published": "2023-02-22T13:36:48.303602Z",
+          "version_type": "release",
+          "files": [
+            {
+              "hashes": {
+                "sha512": "43a0e6da036b14ad288de5727b69209c09dec40144a8b0b4a2f2970c10679f6095f1db0f5e15fcf9e80e41b5bf276a574a5971118b3c3b4ac5d2b4517d330a2b",
+                "sha1": "dab6fa804356b1599ce60601213530bcc5732cbc"
+              },
+              "url": "https://cdn.modrinth.com/data/8BmcQJ2H/versions/ATPZfRS1/geckolib-fabric-1.19-3.1.40.jar",
+              "filename": "geckolib-fabric-1.19-3.1.40.jar",
+              "primary": true,
+              "size": 3619195
+            }
+          ],
+          "dependencies": [
+            {
+              "version_id": "hfsU4hXq",
+              "project_id": "P7dR8mSH",
+              "dependency_type": "required"
+            }
+          ],
+          "game_versions": [
+            "1.19.2"
+          ],
+          "loaders": [
+            "fabric"
+          ]
         }
       },
       {
@@ -26356,7 +26667,224 @@
         "disabled": false,
         "userAdded": false,
         "wasSelected": true,
-        "skipped": false
+        "skipped": false,
+        "curseForgeProjectId": 342584,
+        "curseForgeFileId": 4436952,
+        "curseForgeProject": {
+          "id": 342584,
+          "name": "Collective",
+          "authors": [
+            {
+              "id": 7049004,
+              "name": "Serilum",
+              "url": "https://www.curseforge.com/members/7049004-serilum?username=serilum"
+            }
+          ],
+          "gameId": 432,
+          "summary": "? Collective is a shared library with common code for all of Serilum's mods.",
+          "categories": [
+            {
+              "name": "API and Library",
+              "slug": "library-api",
+              "url": "https://www.curseforge.com/minecraft/mc-mods/library-api",
+              "dateModified": "2014-05-23T03:21:44.06Z",
+              "gameId": 432,
+              "isClass": false,
+              "id": 421,
+              "iconUrl": "https://media.forgecdn.net/avatars/6/36/635351496947765531.png",
+              "parentCategoryId": 6,
+              "classId": 6
+            }
+          ],
+          "status": 4,
+          "primaryCategoryId": 421,
+          "classId": 6,
+          "slug": "collective",
+          "isFeatured": false,
+          "dateModified": "2023-03-23T21:14:55.94Z",
+          "dateCreated": "2019-09-21T20:27:44.81Z",
+          "dateReleased": "2023-03-23T21:12:17.63Z",
+          "links": {
+            "websiteUrl": "https://www.curseforge.com/minecraft/mc-mods/collective",
+            "wikiUrl": "",
+            "issuesUrl": "https://github.com/ricksouth/serilum-mc-mods/labels/Library: Collective",
+            "sourceUrl": "https://github.com/ricksouth/serilum-mc-mod-sources/tree/main/sources/Collective"
+          },
+          "logo": {
+            "id": 601893,
+            "description": "",
+            "thumbnailUrl": "https://media.forgecdn.net/avatars/thumbnails/601/893/256/256/637981624482095236.png",
+            "title": "637981624482095236.png",
+            "url": "https://media.forgecdn.net/avatars/601/893/637981624482095236.png",
+            "modId": 342584
+          },
+          "allowModDistribution": true,
+          "screenshots": [],
+          "mainFileId": 4453978
+        },
+        "curseForgeFile": {
+          "id": 4436952,
+          "gameId": 432,
+          "isAvailable": true,
+          "displayName": "[Forge & Fabric] 1.19.2-6.53 | Collective",
+          "fileName": "collective-1.19.2-6.53.jar",
+          "releaseType": 1,
+          "fileStatus": 4,
+          "fileDate": "2023-03-14T15:41:35.947Z",
+          "fileLength": 578981,
+          "dependencies": [],
+          "alternateFileId": 0,
+          "modules": [
+            {
+              "fingerprint": 2373752942,
+              "name": "collective-fabric-1.19.2-refmap.json"
+            },
+            {
+              "fingerprint": 1687768250,
+              "name": "collective-fabric.crop.mixins.json"
+            },
+            {
+              "fingerprint": 1313634550,
+              "name": "collective-fabric.mixins.json"
+            },
+            {
+              "fingerprint": 3989302663,
+              "name": "collective.accesswidener"
+            },
+            {
+              "fingerprint": 2372721180,
+              "name": "fabric.mod.json"
+            },
+            {
+              "fingerprint": 585234253,
+              "name": "icon.png"
+            },
+            {
+              "fingerprint": 3689605148,
+              "name": "pack.mcmeta"
+            },
+            {
+              "fingerprint": 2799392685,
+              "name": "assets"
+            },
+            {
+              "fingerprint": 2762998129,
+              "name": "com"
+            },
+            {
+              "fingerprint": 2104177277,
+              "name": "META-INF"
+            }
+          ],
+          "isServerPack": false,
+          "hashes": [
+            {
+              "value": "fdb545999dde092a17c56ba30491cdcdb6226f1e",
+              "algo": 1
+            },
+            {
+              "value": "554042b4d4ffbb67d6bf053f0c37daef",
+              "algo": 2
+            }
+          ],
+          "sortableGameVersions": [
+            {
+              "gameVersionPadded": "0",
+              "gameVersion": "",
+              "gameVersionReleaseDate": "2019-08-01T00:00:00Z",
+              "gameVersionName": "Fabric"
+            },
+            {
+              "gameVersionPadded": "0000000001.0000000019.0000000002",
+              "gameVersion": "1.19.2",
+              "gameVersionReleaseDate": "2022-08-05T14:12:22.413Z",
+              "gameVersionName": "1.19.2"
+            },
+            {
+              "gameVersionPadded": "0",
+              "gameVersion": "",
+              "gameVersionReleaseDate": "2019-08-01T00:00:00Z",
+              "gameVersionName": "Forge"
+            },
+            {
+              "gameVersionPadded": "0",
+              "gameVersion": "",
+              "gameVersionReleaseDate": "2022-05-26T00:00:00Z",
+              "gameVersionName": "Quilt"
+            }
+          ],
+          "gameVersions": [
+            "Fabric",
+            "1.19.2",
+            "Forge",
+            "Quilt"
+          ],
+          "fileFingerprint": 1280131455,
+          "modId": 342584
+        },
+        "modrinthProject": {
+          "id": "e0M1UDsY",
+          "slug": "collective",
+          "project_type": "mod",
+          "team": "UTtoE2WS",
+          "title": "Collective",
+          "description": "? Collective is a shared library with common code for all of Serilum's mods.",
+          "body": "<p><a href=\"https://serilum.com/\" target=\"_blank\" rel=\"noopener noreferrer\"><img src=\"https://github.com/ricksouth/serilum-mc-mods/raw/master/description/Modrinth/header.png\" alt=\"\" width=\"896\" height=\"428\" /></a><br /><br /><strong><span style=\"font-size: 24px;\">The Fabric version requires the <a style=\"font-size: 24px;\" href=\"https://modrinth.com/mod/fabric-api\" target=\"_blank\" rel=\"noopener noreferrer\">Fabric API</a>.<br /></span></strong></p>\n<p><strong><span style=\"font-size: 24px;\">Collective is a shared library mod with common code for all of Serilum's mods.</span></strong><span style=\"font-size: 16px;\"><br /><span style=\"font-size: 16px; color: #000000;\">It contains data and functions centralized in one place. Collective helps a great deal in maintainting both the Forge and Fabric versions.<br /><br /></span></span><span style=\"font-size: 16px;\"><span style=\"font-size: 16px; color: #000000;\">Having access to the library's code environment, creates possibilities for current and future project features. The updating process is also made easier when there's an improvement for a function that is relevant to many others. For example this means having to update one project, instead of six. This saves time and makes me a little happier.</span><br /></p>\n<ul>\n<li><span style=\"font-size: 18px; color: #000000;\">Variables for increased compatibility with other projects.</span></li>\n<li><span style=\"font-size: 18px; color: #000000;\">Functions that convert data for mods.</span></li>\n<li><span style=\"font-size: 18px; color: #000000;\">An event to replace and resupply entities.</span></li>\n<li><span style=\"font-size: 18px; color: #000000;\">Centralized backwards compatibility for major version changes.</span></li>\n</ul>\n<br>\n<p><strong><span style=\"font-size: 20px;\">Configurable:</span> <span style=\"color: #008000; font-size: 14px;\"><a style=\"color: #008000;\" title=\"how\" href=\"https://serilum.com/how-to-configure-mods/\" target=\"_blank\" rel=\"noopener noreferrer\">(&nbsp;how do I configure?&nbsp;)</a></span></strong><strong><br />transferItemsBetweenReplacedEntities</strong>&nbsp;(default = true): When enabled, transfer the held items and armour from replaced entities by any of the Entity Spawn mods which depend on Collective.<br /><strong>loopsAmountUsedToGetAllEntityDrops</strong>&nbsp;(default = 100, min 1, max 200): The amount of times Collective loops through possible mob drops to get them all procedurally. Drops are only generated when a dependent mod uses them. Lowering this can increase world load time but decrease accuracy.<br /><strong>findABlockcheckAroundEntitiesDelayMs</strong>&nbsp;(default = 30000, min 0, max 3600000): The delay of the is-there-a-block-around-check around entities in ms. Used in mods which depends on a specific blockstate in the world. Increasing this number can increase TPS if needed.<br /><br /><strong>enableAntiRepostingCheck</strong>&nbsp;(default = true): Please check out <a href=\"https://stopmodreposts.org/\" target=\"_blank\" rel=\"noopener noreferrer\">https://stopmodreposts.org/</a> for more information on why this feature exists.</p>\n<p><br />------------------<br /><br /><span style=\"font-size: 24px;\"><strong>You may freely use this mod in any modpack, as long as the download remains hosted within the Modrinth ecosystem.</strong></span><br /><br /><span style=\"font-size: 18px;\"><a style=\"font-size: 18px; color: #008000;\" href=\"https://serilum.com/\" target=\"_blank\" rel=\"noopener noreferrer\">Serilum.com</a> contains an overview and more information on all mods available.</span><br /><br /><span style=\"font-size: 14px;\">Comments are disabled as I'm unable to keep track of all the separate pages on each mod.</span><span style=\"font-size: 14px;\"><br />For issues, ideas, suggestions or anything else there is the&nbsp;<a style=\"font-size: 14px; color: #008000;\" href=\"https://github.com/ricksouth/serilum-mc-mods/\" target=\"_blank\" rel=\"noopener noreferrer\">Github repo</a>. Thanks!</span><br></p>",
+          "published": "2022-08-30T10:44:01.264939Z",
+          "updated": "2023-03-23T21:12:33.366801Z",
+          "status": "approved",
+          "license": {
+            "id": "LicenseRef-All-Rights-Reserved",
+            "name": ""
+          },
+          "client_side": "optional",
+          "server_side": "optional",
+          "categories": [
+            "library"
+          ],
+          "icon_url": "https://cdn.modrinth.com/data/e0M1UDsY/icon.png",
+          "issues_url": "https://github.com/ricksouth/serilum-mc-mods/labels/Library:%20Collective",
+          "source_url": "https://github.com/ricksouth/serilum-mc-mod-sources/tree/main/sources/Collective",
+          "donation_urls": [
+            {
+              "id": "other",
+              "platform": "Other",
+              "url": "https://ricksouth.com/donate/"
+            }
+          ],
+          "gallery": []
+        },
+        "modrinthVersion": {
+          "id": "ODKDGTON",
+          "project_id": "e0M1UDsY",
+          "author_id": "NIbuUGD2",
+          "name": "[Forge & Fabric] 1.19.2-6.53",
+          "version_number": "1.19.2-6.53-forge+fabric",
+          "changelog": "<p>Fixed Player Heads not being generated correctly.</p><p>The complete changelog with previous versions can be found at: <br>&nbsp; <a href=\"https://serilum.com/mods?changelog=collective\" target=\"_blank\">https://serilum.com/mods?changelog=collective</a></p>",
+          "date_published": "2023-03-14T15:41:49.243126Z",
+          "version_type": "release",
+          "files": [
+            {
+              "hashes": {
+                "sha512": "0e4e4d9de2da5dad779ee24d249440d4928086b27fc2597ca4737927abf4706cd4f866bb8d0b7736b80b653744afc6f0b4ce449876222982e485b8ad91b3c74b",
+                "sha1": "fdb545999dde092a17c56ba30491cdcdb6226f1e"
+              },
+              "url": "https://cdn.modrinth.com/data/e0M1UDsY/versions/ODKDGTON/collective-1.19.2-6.53.jar",
+              "filename": "collective-1.19.2-6.53.jar",
+              "primary": true,
+              "size": 578981
+            }
+          ],
+          "dependencies": [],
+          "game_versions": [
+            "1.19.2"
+          ],
+          "loaders": [
+            "fabric",
+            "forge",
+            "quilt"
+          ]
+        }
       },
       {
         "name": "Inventory Totem",
@@ -30145,7 +30673,218 @@
         "disabled": false,
         "userAdded": false,
         "wasSelected": true,
-        "skipped": false
+        "skipped": false,
+        "curseForgeProjectId": 539382,
+        "curseForgeFileId": 3922111,
+        "curseForgeProject": {
+          "id": 539382,
+          "name": "Iceberg [Fabric]",
+          "authors": [
+            {
+              "id": 100663802,
+              "name": "Grend_G",
+              "url": "https://www.curseforge.com/members/100663802-grend_g?username=grend_g"
+            }
+          ],
+          "gameId": 432,
+          "summary": "A modding library that contains new events, helpers, and utilities to make modder's lives easier.",
+          "categories": [
+            {
+              "name": "API and Library",
+              "slug": "library-api",
+              "url": "https://www.curseforge.com/minecraft/mc-mods/library-api",
+              "dateModified": "2014-05-23T03:21:44.06Z",
+              "gameId": 432,
+              "isClass": false,
+              "id": 421,
+              "iconUrl": "https://media.forgecdn.net/avatars/6/36/635351496947765531.png",
+              "parentCategoryId": 6,
+              "classId": 6
+            }
+          ],
+          "status": 4,
+          "primaryCategoryId": 421,
+          "classId": 6,
+          "slug": "iceberg-fabric",
+          "isFeatured": false,
+          "dateModified": "2023-03-30T06:31:37.98Z",
+          "dateCreated": "2021-10-23T01:35:43.59Z",
+          "dateReleased": "2023-03-30T06:28:14.193Z",
+          "links": {
+            "websiteUrl": "https://www.curseforge.com/minecraft/mc-mods/iceberg-fabric",
+            "wikiUrl": "",
+            "issuesUrl": "https://github.com/AHilyard/Iceberg/issues",
+            "sourceUrl": "https://github.com/AHilyard/Iceberg"
+          },
+          "logo": {
+            "id": 447011,
+            "description": "",
+            "thumbnailUrl": "https://media.forgecdn.net/avatars/thumbnails/447/11/256/256/637705497436248024.png",
+            "title": "637705497436248024.png",
+            "url": "https://media.forgecdn.net/avatars/447/11/637705497436248024.png",
+            "modId": 539382
+          },
+          "allowModDistribution": true,
+          "screenshots": [],
+          "mainFileId": 4465427
+        },
+        "curseForgeFile": {
+          "id": 3922111,
+          "gameId": 432,
+          "isAvailable": true,
+          "displayName": "Iceberg-1.19.1-fabric-1.0.46.jar",
+          "fileName": "Iceberg-1.19.1-fabric-1.0.46.jar",
+          "releaseType": 1,
+          "fileStatus": 4,
+          "fileDate": "2022-08-07T00:11:52.757Z",
+          "fileLength": 79522,
+          "dependencies": [],
+          "alternateFileId": 0,
+          "modules": [
+            {
+              "fingerprint": 816839518,
+              "name": "META-INF"
+            },
+            {
+              "fingerprint": 206448344,
+              "name": "LICENSE_Iceberg-1.19.1-fabric"
+            },
+            {
+              "fingerprint": 577472019,
+              "name": "icon.png"
+            },
+            {
+              "fingerprint": 3178852789,
+              "name": "iceberg.mixins.json"
+            },
+            {
+              "fingerprint": 1967619658,
+              "name": "iceberg.accesswidener"
+            },
+            {
+              "fingerprint": 3463580285,
+              "name": "fabric.mod.json"
+            },
+            {
+              "fingerprint": 3379227715,
+              "name": "Iceberg-1.19.1-fabric-refmap.json"
+            },
+            {
+              "fingerprint": 1748398256,
+              "name": "com"
+            }
+          ],
+          "isServerPack": false,
+          "hashes": [
+            {
+              "value": "cff3a1f0aa7bd3c6f3ac29ae5cb9e6aba991ecd1",
+              "algo": 1
+            },
+            {
+              "value": "a775c0b545ddd5d802ccee488589ffab",
+              "algo": 2
+            }
+          ],
+          "sortableGameVersions": [
+            {
+              "gameVersionPadded": "0",
+              "gameVersion": "",
+              "gameVersionReleaseDate": "2019-08-01T00:00:00Z",
+              "gameVersionName": "Fabric"
+            },
+            {
+              "gameVersionPadded": "0000000001.0000000019.0000000002",
+              "gameVersion": "1.19.2",
+              "gameVersionReleaseDate": "2022-08-05T14:12:22.413Z",
+              "gameVersionName": "1.19.2"
+            },
+            {
+              "gameVersionPadded": "0000000001.0000000019.0000000001",
+              "gameVersion": "1.19.1",
+              "gameVersionReleaseDate": "2022-06-28T00:00:00Z",
+              "gameVersionName": "1.19.1"
+            },
+            {
+              "gameVersionPadded": "0000000001.0000000019",
+              "gameVersion": "1.19",
+              "gameVersionReleaseDate": "2022-06-07T15:38:07.377Z",
+              "gameVersionName": "1.19"
+            }
+          ],
+          "gameVersions": [
+            "Fabric",
+            "1.19.2",
+            "1.19.1",
+            "1.19"
+          ],
+          "fileFingerprint": 2974078263,
+          "modId": 539382
+        },
+        "modrinthProject": {
+          "id": "5faXoLqX",
+          "slug": "iceberg",
+          "project_type": "mod",
+          "team": "fGvFvA3S",
+          "title": "Iceberg",
+          "description": "A modding library that contains new events, helpers, and utilities to make modder's lives easier.",
+          "body": "<p><strong>This mod is a library for other mods, it doesn't do anything by itself.</strong></p>\n<p>This library contains new events, helpers, and utilities to make modder's lives easier.&nbsp; Usable on both client and server side, for Forge mods.</p>\n<p>This was made to help make my own mods more easily, and so I will only be able to provide limited support if you are using it for your own purposes.</p>\n<p>&nbsp;&nbsp;</p>\n<p><em>You are free to use this library in the development of your mods or in modpacks!</em></p>\n<p>&nbsp;</p>\n<p><a title=\"Join us in Discord!\" href=\"https://discord.gg/S5NQjbXPnb\"><img src=\"https://i.imgur.com/yX0xrk0.png\" width=\"200\" height=\"68\" /></a></p>\n<p><strong>Problems, feature request, something else?&nbsp; Join us on Discord!</strong></p>",
+          "published": "2022-11-15T06:48:55.303423Z",
+          "updated": "2023-03-30T06:35:30.169774Z",
+          "status": "approved",
+          "license": {
+            "id": "CC-BY-NC-ND-4.0",
+            "name": "Creative Commons Attribution Non Commercial No Derivatives 4.0 International"
+          },
+          "client_side": "required",
+          "server_side": "optional",
+          "categories": [
+            "library"
+          ],
+          "icon_url": "https://cdn.modrinth.com/data/5faXoLqX/fadafde0faf68b37947c8df97ba4e5a6725f4b6a.png",
+          "issues_url": "https://github.com/AHilyard/Iceberg/issues",
+          "source_url": "https://github.com/AHilyard/Iceberg/",
+          "wiki_url": "https://github.com/AHilyard/Iceberg/wiki/Item-Selectors-Documentation",
+          "discord_url": "https://discord.gg/S5NQjbXPnb",
+          "donation_urls": [
+            {
+              "id": "paypal",
+              "platform": "PayPal",
+              "url": "https://www.paypal.com/donate/?business=NYKUAV883JKA2&no_recurring=0&item_name=Thank+you+for+considering+a+donation.+It+helps+to+support+me+by+allowing+me+to+spend+more+time+making+mods+and+games.&currency_code=USD"
+            }
+          ],
+          "gallery": []
+        },
+        "modrinthVersion": {
+          "id": "qC0waeNX",
+          "project_id": "5faXoLqX",
+          "author_id": "3Q6HVcLg",
+          "name": "1.0.46 Fabric (1.19.x)",
+          "version_number": "1.0.46",
+          "changelog": "* Ported changes through 1.0.46 from Forge version.",
+          "date_published": "2022-11-15T07:02:30.745507Z",
+          "version_type": "release",
+          "files": [
+            {
+              "hashes": {
+                "sha512": "c8f46d810cd1f7006cf8953fb53f4399c4dc4dbf38032cf6ea8c771669fbb0d903d8223aaf89ca80cf504db851b38ccfdc839b330a93a6ecb7c5b5130d008aff",
+                "sha1": "cff3a1f0aa7bd3c6f3ac29ae5cb9e6aba991ecd1"
+              },
+              "url": "https://cdn.modrinth.com/data/5faXoLqX/versions/qC0waeNX/Iceberg-1.19.1-fabric-1.0.46.jar",
+              "filename": "Iceberg-1.19.1-fabric-1.0.46.jar",
+              "primary": true,
+              "size": 79522
+            }
+          ],
+          "dependencies": [],
+          "game_versions": [
+            "1.19",
+            "1.19.1",
+            "1.19.2"
+          ],
+          "loaders": [
+            "fabric"
+          ]
+        }
       },
       {
         "name": "Prism-1.19.2-fabric-1.0.3",
@@ -30157,7 +30896,259 @@
         "disabled": false,
         "userAdded": false,
         "wasSelected": true,
-        "skipped": false
+        "skipped": false,
+        "curseForgeProjectId": 665526,
+        "curseForgeFileId": 4030091,
+        "curseForgeProject": {
+          "id": 665526,
+          "name": "Prism [Fabric]",
+          "authors": [
+            {
+              "id": 100663802,
+              "name": "Grend_G",
+              "url": "https://www.curseforge.com/members/100663802-grend_g?username=grend_g"
+            }
+          ],
+          "gameId": 432,
+          "summary": "A library all about color! Provides lots of color-related functionality for dependent mods.",
+          "categories": [
+            {
+              "name": "API and Library",
+              "slug": "library-api",
+              "url": "https://www.curseforge.com/minecraft/mc-mods/library-api",
+              "dateModified": "2014-05-23T03:21:44.06Z",
+              "gameId": 432,
+              "isClass": false,
+              "id": 421,
+              "iconUrl": "https://media.forgecdn.net/avatars/6/36/635351496947765531.png",
+              "parentCategoryId": 6,
+              "classId": 6
+            },
+            {
+              "name": "Cosmetic",
+              "slug": "cosmetic",
+              "url": "https://www.curseforge.com/minecraft/mc-mods/cosmetic",
+              "dateModified": "2014-05-08T17:42:35.597Z",
+              "gameId": 432,
+              "isClass": false,
+              "id": 424,
+              "iconUrl": "https://media.forgecdn.net/avatars/6/39/635351497555976928.png",
+              "parentCategoryId": 6,
+              "classId": 6
+            },
+            {
+              "name": "Miscellaneous",
+              "slug": "mc-miscellaneous",
+              "url": "https://www.curseforge.com/minecraft/mc-mods/mc-miscellaneous",
+              "dateModified": "2014-06-15T04:27:14.543Z",
+              "gameId": 432,
+              "isClass": false,
+              "id": 425,
+              "iconUrl": "https://media.forgecdn.net/avatars/6/40/635351497693711265.png",
+              "parentCategoryId": 6,
+              "classId": 6
+            },
+            {
+              "name": "Utility & QoL",
+              "slug": "utility-qol",
+              "url": "https://www.curseforge.com/minecraft/mc-mods/utility-qol",
+              "dateModified": "2021-11-17T11:45:09.143Z",
+              "gameId": 432,
+              "isClass": false,
+              "id": 5191,
+              "iconUrl": "https://media.forgecdn.net/avatars/456/558/637727379086405233.png",
+              "parentCategoryId": 6,
+              "classId": 6
+            }
+          ],
+          "status": 4,
+          "primaryCategoryId": 425,
+          "classId": 6,
+          "slug": "prism-fabric",
+          "isFeatured": false,
+          "dateModified": "2023-01-15T08:37:50.233Z",
+          "dateCreated": "2022-08-28T06:51:45.033Z",
+          "dateReleased": "2023-01-14T23:46:36.73Z",
+          "links": {
+            "websiteUrl": "https://www.curseforge.com/minecraft/mc-mods/prism-fabric",
+            "issuesUrl": "https://github.com/AHilyard/Prism/issues",
+            "sourceUrl": "https://github.com/AHilyard/Prism"
+          },
+          "logo": {
+            "id": 596545,
+            "description": "",
+            "thumbnailUrl": "https://media.forgecdn.net/avatars/thumbnails/596/545/256/256/637972663050672688.png",
+            "title": "637972663050672688.png",
+            "url": "https://media.forgecdn.net/avatars/596/545/637972663050672688.png",
+            "modId": 665526
+          },
+          "allowModDistribution": true,
+          "screenshots": [],
+          "mainFileId": 4334099
+        },
+        "curseForgeFile": {
+          "id": 4030091,
+          "gameId": 432,
+          "isAvailable": true,
+          "displayName": "Prism-1.19.2-fabric-1.0.3.jar",
+          "fileName": "Prism-1.19.2-fabric-1.0.3.jar",
+          "releaseType": 1,
+          "fileStatus": 4,
+          "fileDate": "2022-10-15T21:59:56.417Z",
+          "fileLength": 57198,
+          "dependencies": [],
+          "alternateFileId": 0,
+          "modules": [
+            {
+              "fingerprint": 978065966,
+              "name": "META-INF"
+            },
+            {
+              "fingerprint": 3697459779,
+              "name": "webcolors.csv"
+            },
+            {
+              "fingerprint": 813803326,
+              "name": "prism.mixins.json"
+            },
+            {
+              "fingerprint": 316867973,
+              "name": "prism.accesswidener"
+            },
+            {
+              "fingerprint": 2281442579,
+              "name": "pack.mcmeta"
+            },
+            {
+              "fingerprint": 3679477157,
+              "name": "icon.png"
+            },
+            {
+              "fingerprint": 3816128223,
+              "name": "fabric.mod.json"
+            },
+            {
+              "fingerprint": 3101671543,
+              "name": "Prism-1.19.2-fabric-refmap.json"
+            },
+            {
+              "fingerprint": 3023125666,
+              "name": "com"
+            }
+          ],
+          "isServerPack": false,
+          "hashes": [
+            {
+              "value": "21ff90e99c357f407cf170d36bc5387e01d88706",
+              "algo": 1
+            },
+            {
+              "value": "63bec00724a82836139cea0e26370fee",
+              "algo": 2
+            }
+          ],
+          "sortableGameVersions": [
+            {
+              "gameVersionPadded": "0",
+              "gameVersion": "",
+              "gameVersionReleaseDate": "2019-08-01T00:00:00Z",
+              "gameVersionName": "Fabric"
+            },
+            {
+              "gameVersionPadded": "0000000001.0000000019.0000000002",
+              "gameVersion": "1.19.2",
+              "gameVersionReleaseDate": "2022-08-05T14:12:22.413Z",
+              "gameVersionName": "1.19.2"
+            },
+            {
+              "gameVersionPadded": "0000000001.0000000019.0000000001",
+              "gameVersion": "1.19.1",
+              "gameVersionReleaseDate": "2022-06-28T00:00:00Z",
+              "gameVersionName": "1.19.1"
+            },
+            {
+              "gameVersionPadded": "0000000001.0000000019",
+              "gameVersion": "1.19",
+              "gameVersionReleaseDate": "2022-06-07T15:38:07.377Z",
+              "gameVersionName": "1.19"
+            }
+          ],
+          "gameVersions": [
+            "Fabric",
+            "1.19.2",
+            "1.19.1",
+            "1.19"
+          ],
+          "fileFingerprint": 2261146617,
+          "modId": 665526
+        },
+        "modrinthProject": {
+          "id": "1OE8wbN0",
+          "slug": "prism-lib",
+          "project_type": "mod",
+          "team": "PyFeuZCL",
+          "title": "Prism",
+          "description": "A library all about color! Provides lots of color-related functionality for dependent mods.",
+          "body": "<p><span style=\"font-size: 18px;\">Prism is a library all about <strong><span style=\"color: #0000ff; font-size: 18px;\">c</span><span style=\"color: #ff0000; font-size: 18px;\">o</span><span style=\"color: #008000; font-size: 18px;\">l</span><span style=\"color: #800080; font-size: 18px;\">o</span><span style=\"color: #ff6600; font-size: 18px;\">r</span>!</strong></span></p>\n<p>This library contains a powerful set of utilities to easily add color-related functionality to your mods.</p>\n<p>For example, just installing the library allows <em>any</em> mod that uses Minecraft's built-in TextColor (the basic color functionality) to automatically support animated colors, web colors, easy HSV manipulation, and more.</p>\n<p>For full documentation, please see <a href=\"https://github.com/AHilyard/Prism/wiki/Prism-Documentation\">the wiki</a>.</p>\n<p>&nbsp;</p>\n<p><em>You are free to use this library in the development of your mods or in modpacks!</em></p>\n<p>&nbsp;</p>\n<p><a href=\"https://discord.gg/S5NQjbXPnb\" rel=\"nofollow\"><img src=\"https://i.imgur.com/yX0xrk0.png\" width=\"200\" height=\"68\" /></a></p>\n<p><strong>Problems, feature request, something else?&nbsp; Join us on Discord!</strong></p>",
+          "published": "2022-11-15T08:29:04.506238Z",
+          "updated": "2023-01-15T23:50:24.884511Z",
+          "status": "approved",
+          "license": {
+            "id": "CC-BY-NC-ND-4.0",
+            "name": "Creative Commons Attribution Non Commercial No Derivatives 4.0 International"
+          },
+          "client_side": "required",
+          "server_side": "optional",
+          "categories": [
+            "decoration",
+            "library",
+            "utility"
+          ],
+          "icon_url": "https://cdn.modrinth.com/data/1OE8wbN0/fdaf0d78392ef6838c0fc05a6928f65394d31982.png",
+          "issues_url": "https://github.com/AHilyard/Prism/issues",
+          "source_url": "https://github.com/AHilyard/Prism/",
+          "wiki_url": "https://github.com/AHilyard/Prism/wiki/Prism-Documentation",
+          "discord_url": "https://discord.gg/S5NQjbXPnb",
+          "donation_urls": [
+            {
+              "id": "paypal",
+              "platform": "PayPal",
+              "url": "https://www.paypal.com/donate/?business=NYKUAV883JKA2&no_recurring=0&item_name=Thank+you+for+considering+a+donation.+It+helps+to+support+me+by+allowing+me+to+spend+more+time+making+mods+and+games.&currency_code=USD"
+            }
+          ],
+          "gallery": []
+        },
+        "modrinthVersion": {
+          "id": "IZHmnX6H",
+          "project_id": "1OE8wbN0",
+          "author_id": "3Q6HVcLg",
+          "name": "1.0.3 Fabric (1.19.x)",
+          "version_number": "1.0.3",
+          "changelog": "* Added crash guard when item color is attempted to be determined before the item is registered.\n* Fixed crash with null-color values.\n* Reduced mixin log verbosity.",
+          "date_published": "2022-11-15T08:37:29.639554Z",
+          "version_type": "release",
+          "files": [
+            {
+              "hashes": {
+                "sha1": "21ff90e99c357f407cf170d36bc5387e01d88706",
+                "sha512": "61515bcdd0c15556e9512a5132c038ef7cd08f2acf7cde9214e27a67cbf6fdd607c2dfecf53c26d4cb1614019be5cfb397c45235c71a124f85803c85e78256cd"
+              },
+              "url": "https://cdn.modrinth.com/data/1OE8wbN0/versions/IZHmnX6H/Prism-1.19.2-fabric-1.0.3.jar",
+              "filename": "Prism-1.19.2-fabric-1.0.3.jar",
+              "primary": true,
+              "size": 57198
+            }
+          ],
+          "dependencies": [],
+          "game_versions": [
+            "1.19",
+            "1.19.1",
+            "1.19.2"
+          ],
+          "loaders": [
+            "fabric"
+          ]
+        }
       },
       {
         "name": "ForgeConfigAPIPort-v4.2.11-1.19.2-Fabric",
@@ -30169,7 +31160,298 @@
         "disabled": false,
         "userAdded": false,
         "wasSelected": true,
-        "skipped": false
+        "skipped": false,
+        "curseForgeProjectId": 547434,
+        "curseForgeFileId": 4401535,
+        "curseForgeProject": {
+          "id": 547434,
+          "name": "Forge Config API Port [Fabric]",
+          "authors": [
+            {
+              "id": 10384423,
+              "name": "Fuzs",
+              "url": "https://www.curseforge.com/members/10384423-fuzs_?username=fuzs_"
+            }
+          ],
+          "gameId": 432,
+          "summary": "Forge's whole config system provided to the Fabric ecosystem. Designed for a multiloader architecture.",
+          "categories": [
+            {
+              "name": "API and Library",
+              "slug": "library-api",
+              "url": "https://www.curseforge.com/minecraft/mc-mods/library-api",
+              "dateModified": "2014-05-23T03:21:44.06Z",
+              "gameId": 432,
+              "isClass": false,
+              "id": 421,
+              "iconUrl": "https://media.forgecdn.net/avatars/6/36/635351496947765531.png",
+              "parentCategoryId": 6,
+              "classId": 6
+            },
+            {
+              "name": "Server Utility",
+              "slug": "server-utility",
+              "url": "https://www.curseforge.com/minecraft/mc-mods/server-utility",
+              "dateModified": "2014-05-08T17:44:55.057Z",
+              "gameId": 432,
+              "isClass": false,
+              "id": 435,
+              "iconUrl": "https://media.forgecdn.net/avatars/6/48/635351498950580836.png",
+              "parentCategoryId": 6,
+              "classId": 6
+            }
+          ],
+          "status": 4,
+          "primaryCategoryId": 421,
+          "classId": 6,
+          "slug": "forge-config-api-port-fabric",
+          "isFeatured": false,
+          "dateModified": "2023-03-22T10:08:47.187Z",
+          "dateCreated": "2021-11-15T18:49:48.127Z",
+          "dateReleased": "2023-03-22T10:06:15.67Z",
+          "links": {
+            "websiteUrl": "https://www.curseforge.com/minecraft/mc-mods/forge-config-api-port-fabric",
+            "wikiUrl": "",
+            "issuesUrl": "https://github.com/Fuzss/forgeconfigapiport/issues",
+            "sourceUrl": "https://github.com/Fuzss/forgeconfigapiport"
+          },
+          "logo": {
+            "id": 776267,
+            "description": "",
+            "thumbnailUrl": "https://media.forgecdn.net/avatars/thumbnails/776/267/256/256/638118192756597494.png",
+            "title": "638118192756597494.png",
+            "url": "https://media.forgecdn.net/avatars/776/267/638118192756597494.png",
+            "modId": 547434
+          },
+          "allowModDistribution": true,
+          "screenshots": [],
+          "mainFileId": 4451343
+        },
+        "curseForgeFile": {
+          "id": 4401535,
+          "gameId": 432,
+          "isAvailable": true,
+          "displayName": "[FABRIC] [1.19.2] ForgeConfigAPIPort-v4.2.11",
+          "fileName": "ForgeConfigAPIPort-v4.2.11-1.19.2-Fabric.jar",
+          "releaseType": 1,
+          "fileStatus": 4,
+          "fileDate": "2023-02-18T17:50:48.42Z",
+          "fileLength": 439991,
+          "dependencies": [
+            {
+              "fileId": 0,
+              "modId": 667378,
+              "relationType": 2
+            },
+            {
+              "fileId": 0,
+              "modId": 308702,
+              "relationType": 2
+            },
+            {
+              "fileId": 0,
+              "modId": 306612,
+              "relationType": 3
+            }
+          ],
+          "alternateFileId": 4401536,
+          "modules": [
+            {
+              "fingerprint": 230095785,
+              "name": "META-INF"
+            },
+            {
+              "fingerprint": 2773243805,
+              "name": "CHANGELOG.md"
+            },
+            {
+              "fingerprint": 2286178963,
+              "name": "LICENSING.md"
+            },
+            {
+              "fingerprint": 2972570874,
+              "name": "LICENSE-NIGHT-CONFIG"
+            },
+            {
+              "fingerprint": 2149241610,
+              "name": "LICENSE-FORGE"
+            },
+            {
+              "fingerprint": 2980605036,
+              "name": "LICENSE"
+            },
+            {
+              "fingerprint": 2720991139,
+              "name": "pack.mcmeta"
+            },
+            {
+              "fingerprint": 3072588313,
+              "name": "assets"
+            },
+            {
+              "fingerprint": 1382675379,
+              "name": "forgeconfigapiport.fabric.mixins.json"
+            },
+            {
+              "fingerprint": 2715265813,
+              "name": "mod_banner.png"
+            },
+            {
+              "fingerprint": 107840108,
+              "name": "mod_logo.png"
+            },
+            {
+              "fingerprint": 2793012662,
+              "name": "fabric.mod.json"
+            },
+            {
+              "fingerprint": 3331627010,
+              "name": "forgeconfigapiport.refmap.json"
+            },
+            {
+              "fingerprint": 2865701434,
+              "name": "net"
+            }
+          ],
+          "isServerPack": false,
+          "hashes": [
+            {
+              "value": "00d05a6d57ee557ab216de5527e1434e3cf50c24",
+              "algo": 1
+            },
+            {
+              "value": "b6d1e140e6a13a01aa6e56b8733d56e6",
+              "algo": 2
+            }
+          ],
+          "sortableGameVersions": [
+            {
+              "gameVersionPadded": "0",
+              "gameVersion": "",
+              "gameVersionReleaseDate": "2019-08-01T00:00:00Z",
+              "gameVersionName": "Fabric"
+            },
+            {
+              "gameVersionPadded": "0000000001.0000000019.0000000002",
+              "gameVersion": "1.19.2",
+              "gameVersionReleaseDate": "2022-08-05T14:12:22.413Z",
+              "gameVersionName": "1.19.2"
+            },
+            {
+              "gameVersionPadded": "0000000001.0000000019.0000000001",
+              "gameVersion": "1.19.1",
+              "gameVersionReleaseDate": "2022-06-28T00:00:00Z",
+              "gameVersionName": "1.19.1"
+            },
+            {
+              "gameVersionPadded": "0",
+              "gameVersion": "",
+              "gameVersionReleaseDate": "2022-05-26T00:00:00Z",
+              "gameVersionName": "Quilt"
+            },
+            {
+              "gameVersionPadded": "0000000001.0000000019",
+              "gameVersion": "1.19",
+              "gameVersionReleaseDate": "2022-06-07T15:38:07.377Z",
+              "gameVersionName": "1.19"
+            }
+          ],
+          "gameVersions": [
+            "Fabric",
+            "1.19.2",
+            "1.19.1",
+            "Quilt",
+            "1.19"
+          ],
+          "fileFingerprint": 2616912668,
+          "modId": 547434
+        },
+        "modrinthProject": {
+          "id": "ohNO6lps",
+          "slug": "forge-config-api-port",
+          "project_type": "mod",
+          "team": "Lcr15WUK",
+          "title": "Forge Config API Port",
+          "description": "Yes, you're reading that correctly. This is the whole Forge Config API ported to Fabric.",
+          "body": "<p><img src=\"https://i.imgur.com/bUAnw7w.png\" width=\"854\" height=\"240\" /></p>\n<p><img src=\"https://i.imgur.com/M1Yd5EZ.png\" width=\"854\" height=\"14\" /></p>\n<p style=\"text-align: center; line-height: 36px;\"><img src=\"https://img.shields.io/badge/Available%20for%20Minecraft-1.19%20%7C%201.18%20%7C%201.17%20%7C%201.16-ecebe6?labelColor=2F4858&amp;style=for-the-badge\" width=\"386\" height=\"28\" />&emsp;<img src=\"https://img.shields.io/badge/Install%20on-Client%20%26%20Server-ecebe6?labelColor=2F4858&amp;style=for-the-badge\" width=\"240\" height=\"28\" /></p>\n<p style=\"text-align: center; line-height: 36px;\"><a href=\"https://www.curseforge.com/minecraft/mc-mods/forge-config-api-port-fabric/files/all?filter-status=1&amp;filter-game-version=2020709689%3A7499\"><img src=\"https://bit.ly/3nRXr4m\" width=\"325\" height=\"28\" /></a>&emsp;<a href=\"https://www.curseforge.com/minecraft/mc-mods/fabric-api\"><img src=\"https://bit.ly/30lZmFY\" width=\"208\" height=\"28\" /></a></p>\n<p><img src=\"https://i.imgur.com/M1Yd5EZ.png\" width=\"854\" height=\"14\" /></p>\n<p><span style=\"font-size: 20px;\"><strong>? About:</strong></span></p>\n<p><span style=\"font-size: 14px;\"><strong>Forge Config API Port</strong> is a modding library for the Fabric ecosystem providing the whole Forge config api. If you are a user, this means this mod does nothing on it's own and you should only install it when using another mod that depends on it.</span></p>\n<p><span style=\"font-size: 14px;\">Install the <a href=\"https://www.curseforge.com/minecraft/mc-mods/configured-fabric\"><span style=\"font-size: 14px;\"><strong>Configured</strong></span></a> mod by <a href=\"https://www.curseforge.com/members/mrcrayfish\"><span style=\"font-size: 14px;\"><strong>MrCrayfish</strong></span></a> if you want in-game configuration!</span></p>\n<p><span style=\"font-size: 14px;\">This port became necessary as I wasn't able to find an existing config api on Fabric which suited my needs, also I have a bunch of code built on top of Forge's api, so just porting the api was the easiest solution. Any other dev seeking to use the Forge config api on Fabric to maintain their project(s) on both loaders is welcome to use this library. Instructions on how to add Forge Config API Port to your development workspace can be found on the GitHub page.</span></p>\n<p><span style=\"font-size: 14px;\">If you're using a multiloader Gradle setup for your workspace, e.g. as demonstrated <a href=\"https://github.com/jaredlll08/MultiLoader-Template\"><span style=\"font-size: 14px;\"><strong>here</strong></span></a> by <a href=\"https://github.com/jaredlll08\"><span style=\"font-size: 14px;\"><strong>Jared</strong></span></a>, Forge Config API Port is especially useful, as it can be directly added to the common sub project, so that all Forge config features can be used in any sub project, mod loader specific code only being required once when registering configs. It's really neat, believe me!</span></p>\n<p><span style=\"font-size: 14px;\"><del>Editing configs directly in-game has not yet been implemented. Instead when in a world run the <code>/config showfile &lt;modid&gt;</code> command by choosing either <code>CLIENT</code>, <code>COMMON</code>, or <code>SERVER</code> (depending on the mod), then click the file name (ending with .toml) that appears in chat to be able to manually edit the config file in a separate editor. After saving the file, the config will automatically reload in-game after a couple of seconds, so no game restart required.</del></span></p>\n<p><span style=\"font-size: 14px;\"><del>Default in-game configuration will be added when the related <a href=\"https://github.com/MinecraftForge/MinecraftForge/pull/8874\"><span style=\"font-size: 14px;\"><strong>PR</strong></span></a> is finalized and merged into Forge. Since the approach the Forge team is taking for configs screens is rather basic, I'm also planning on providing my <a href=\"https://www.curseforge.com/minecraft/mc-mods/config-menus-forge\"><span style=\"font-size: 14px;\"><strong>Config Menus for Forge</strong></span></a> mod for Fabric, to offer in-game configuration in a more user-friendly and feature packed manner.</del></span></p>\n<p><span style=\"font-size: 14px;\">More information concerning the licensing of this project and additional information for other developers can be found on the GitHub repo.</span></p>\n<p><img src=\"https://i.imgur.com/M1Yd5EZ.png\" width=\"854\" height=\"14\" /></p>\n<p><span style=\"font-size: 20px;\"><strong>? Credits:</strong></span></p>\n<p><span style=\"font-size: 14px;\">Developing Forge Config API Port was helped and inspired by:</span></p>\n<ul>\n<li><span style=\"font-size: 14px;\">The whole Forge team, they really did a great job putting together this config api for Forge.</span></li>\n</ul>\n<p><img src=\"https://i.imgur.com/M1Yd5EZ.png\" width=\"854\" height=\"14\" /></p>\n<p style=\"text-align: center; line-height: 36px;\"><a href=\"https://www.curseforge.com/members/fuzs_/projects\"><img src=\"https://img.shields.io/static/v1?label=&amp;message=Fuzs_&amp;color=ecebe6&amp;labelColor=2F4858&amp;style=for-the-badge&amp;logo=curseforge&amp;logoColor=white\" width=\"97\" height=\"28\" /></a>&emsp;<a href=\"https://github.com/Fuzss\"><img src=\"https://img.shields.io/static/v1?label=&amp;message=Fuzss&amp;color=ecebe6&amp;labelColor=2F4858&amp;style=for-the-badge&amp;logo=github&amp;logoColor=white\" width=\"97\" height=\"28\" /></a>&emsp;<a href=\"https://www.youtube.com/channel/UC2l26SuCmCNSCPefpfbCX7Q\"><img src=\"https://img.shields.io/static/v1?label=&amp;message=Fuzs&amp;color=ecebe6&amp;labelColor=2F4858&amp;style=for-the-badge&amp;logo=youtube&amp;logoColor=white\" width=\"89\" height=\"28\" /></a>&emsp;<a href=\"https://twitter.com/Fusseel\"><img src=\"https://img.shields.io/static/v1?label=&amp;message=@Fusseel&amp;color=ecebe6&amp;labelColor=2F4858&amp;style=for-the-badge&amp;logo=twitter&amp;logoColor=white\" width=\"124\" height=\"28\" /></a>&emsp;<a href=\"https://www.reddit.com/user/Fusseel\"><img src=\"https://img.shields.io/static/v1?label=&amp;message=u/Fusseel&amp;color=ecebe6&amp;labelColor=2F4858&amp;style=for-the-badge&amp;logo=reddit&amp;logoColor=white\" alt=\"Reddit\" width=\"130\" height=\"28\" /></a>&emsp;<img src=\"https://img.shields.io/static/v1?label=&amp;message=Fuzs%200212&amp;color=ecebe6&amp;labelColor=2F4858&amp;style=for-the-badge&amp;logo=discord&amp;logoColor=white\" width=\"127\" height=\"28\" /></p>\n<p><img src=\"https://i.imgur.com/M1Yd5EZ.png\" width=\"854\" height=\"14\" /></p>",
+          "published": "2021-12-03T10:23:02.288424Z",
+          "updated": "2023-03-22T10:06:19.590977Z",
+          "status": "approved",
+          "license": {
+            "id": "MPL-2.0",
+            "name": "Mozilla Public License 2.0"
+          },
+          "client_side": "required",
+          "server_side": "required",
+          "categories": [
+            "library"
+          ],
+          "icon_url": "https://cdn.modrinth.com/data/ohNO6lps/icon.png",
+          "issues_url": "https://github.com/Fuzss/forgeconfigapiport/issues",
+          "source_url": "https://github.com/Fuzss/forgeconfigapiport",
+          "discord_url": "https://discord.gg/8ZmhaPPbjE",
+          "donation_urls": [],
+          "gallery": [
+            {
+              "url": "https://cdn.modrinth.com/data/ohNO6lps/images/687d292020eb1546e6886f54c1570162b05b0334.png",
+              "featured": true,
+              "created": "2023-01-08T21:53:55.557065Z",
+              "ordering": 0.0
+            }
+          ]
+        },
+        "modrinthVersion": {
+          "id": "3VCgXZ79",
+          "project_id": "ohNO6lps",
+          "author_id": "rHdGpxOA",
+          "name": "[FABRIC] [1.19.2] ForgeConfigAPIPort-v4.2.11",
+          "version_number": "4.2.11",
+          "changelog": "# Changelog\nAll notable changes to this project will be documented in this file.\n\nThe format is based on [Keep a Changelog].\n\n## [v4.2.11-1.19.2] - 2023-02-18\n### Fixed\n- Backported some changes to the `/config` command making it fully client-side to fix issues with command argument serialization\n\n## [v4.2.10-1.19.2] - 2023-01-09\n### Fixed\n- Update `fuzs.forgeconfigapiport.impl.util.ReflectionHelper` to fix crash with the Configured mod when editing a value that does not have a valid `net.minecraftforge.common.ForgeConfigSpec$Range`\n\n## [v4.2.9-1.19.2] - 2022-12-07\n### Fixed\n- Fixed maven publication depending on Night Config as a mod at runtime\n\n## [v4.2.8-1.19.2] - 2022-12-07\n### Fixed\n- Fixed maven publication depending on Configured mod when it's actually just optional\n\n## [v4.2.7-1.19.2] - 2022-11-22\n### Added\n- Added a callback that fires when server configs are unloading \n- Added support for the [Configured] mod, it will automatically provide config screens to replace the built-in ones when installed\n### Fixed\n- Fixed a race condition with unloading server config\n\n## [v4.2.6-1.19.2] - 2022-08-31\n### Fixed\n- Fixed crash when a config screen attempts to handle unsupported config value types\n\n## [v4.2.5-1.19.2] - 2022-08-31\n### Added\n- Added a new `ModConfigEvents` class which is the new way of handling mod config events (loading and reloading), to ensure config events are only accessed on a mod specific basis\n- The old `ModConfigEvent` class is now deprecated for removal in the next major release for 1.20\n### Changed\n- Reverted minor internal removals from previous version to ensure compatibility with mods using those internals; they are deprecated now instead\n- Added a bunch of `@ApiStatus` annotations to ensure mods are only accessing the parts of the library they are meant to\n- This will be overhauled in the next major release for 1.20 to move some internals to a dedicated `impl` domain\n\n## [v4.2.4-1.19.2] - 2022-08-30\n- Resolved issues regarding the license of Forge\n### Changed\n- Ported more changes from Forge's config screens\n- Switched remaining loggers from Log4j to SLF4J\n\n## [v4.2.3-1.19.2] - 2022-08-22\n### Fixed\n- Fixed config screen crashing for config values without a widget factory\n\n## [v4.2.2-1.19.2] - 2022-08-21\n### Fixed\n- Added missing translation keys when cancelling config editing\n\n## [v4.2.1-1.19.2] - 2022-08-21\n### Changed\n- Ported most recent changes from Forge's config screens\n### Fixed\n- Fixed minimum Minecraft version requirement\n- Fixed multiple entries being selected in gui lists\n\n## [v4.2.0-1.19.2] - 2022-08-20\n- Compiled for Minecraft 1.19.2\n### Changed\n- Fabric Api is no longer bundled again, was causing issues with Quilt and was an inconvenience when bundling the mod as jar-in-jar\n### Fixed\n- Fixed missing sub-folders not being created for configs not in the main config directory\n\n## [v4.1.4-1.19.1] - 2022-08-02\n### Fixed\n- Fixed required version of Fabric Api\n\n## [v4.1.3-1.19.1] - 2022-07-31\n- Include Fabric Lifecycle Events which is also required\n\n## [v4.1.2-1.19.1] - 2022-07-28\n- Now requires Minecraft 1.19.1 or newer\n### Fixed\n- Fix start-up crash due to wrong mixin file location in publishing jar\n\n## [v4.1.1-1.19.1] - 2022-07-28\n- Re-compile to update outdated files\n\n## [v4.1.0-1.19.1] - 2022-07-28\n- Compiled for Minecraft 1.19.1\n### Added\n- Added native config screens from Forge (they are extremely buggy, so consider this an alpha, also requires Mod Menu to become accessible)\n### Changed\n- Ported `ForgeConfigSpec` changes from Forge\n- Fabric API is no longer a dependency, relevant modules are included in the jar now\n\n## [v4.0.2-1.19] - 2022-07-28\n### Fixed\n- Fixed Mod Menu being required as a Maven dependency when it's actually just optional\n\n## [v4.0.1-1.19] - 2022-07-27\n### Changed\n- Maven publication no longer depends on Night Config as a Fabric mod\n\n## [v4.0.0-1.19] - 2022-06-08\n- Ported to Minecraft 1.19\n\n[Keep a Changelog]: https://keepachangelog.com/en/1.0.0/\n[Configured]: https://www.curseforge.com/minecraft/mc-mods/configured-fabric",
+          "date_published": "2023-02-18T17:50:54.917542Z",
+          "version_type": "release",
+          "files": [
+            {
+              "hashes": {
+                "sha512": "bc6c8c703c47972aa232616bb3cbcd2602a68c00be09bce55608904eedd7088b221516893c4a46fc5fd660bf1f08d46a011426a0a4ad6606a9eefbff2c674f7a",
+                "sha1": "00d05a6d57ee557ab216de5527e1434e3cf50c24"
+              },
+              "url": "https://cdn.modrinth.com/data/ohNO6lps/versions/3VCgXZ79/ForgeConfigAPIPort-v4.2.11-1.19.2-Fabric.jar",
+              "filename": "ForgeConfigAPIPort-v4.2.11-1.19.2-Fabric.jar",
+              "primary": true,
+              "size": 439991
+            },
+            {
+              "hashes": {
+                "sha1": "4b7104402b23280fdfc3956ca12ed190c8675f9f",
+                "sha512": "2f08e7759ecf8150e91617062676755c66e78032f12984bc2e2b45e34f98724a50b15c9aa199074cd671ffee95474e84bb847e31d47e55bedf8f987801c06fa0"
+              },
+              "url": "https://cdn.modrinth.com/data/ohNO6lps/versions/3VCgXZ79/ForgeConfigAPIPort-v4.2.11-1.19.2-Fabric-sources.jar",
+              "filename": "ForgeConfigAPIPort-v4.2.11-1.19.2-Fabric-sources.jar",
+              "primary": false,
+              "size": 128996
+            }
+          ],
+          "dependencies": [
+            {
+              "version_id": "hfsU4hXq",
+              "project_id": "P7dR8mSH",
+              "dependency_type": "required"
+            },
+            {
+              "project_id": "mOgUt4GM",
+              "dependency_type": "optional"
+            }
+          ],
+          "game_versions": [
+            "1.19",
+            "1.19.1",
+            "1.19.2"
+          ],
+          "loaders": [
+            "fabric",
+            "quilt"
+          ]
+        }
       },
       {
         "name": "LegendaryTooltips-1.19.2-fabric-1.3.3",
@@ -30181,7 +31463,358 @@
         "disabled": false,
         "userAdded": false,
         "wasSelected": true,
-        "skipped": false
+        "skipped": false,
+        "curseForgeProjectId": 542478,
+        "curseForgeFileId": 3998293,
+        "curseForgeProject": {
+          "id": 542478,
+          "name": "Legendary Tooltips [Fabric]",
+          "authors": [
+            {
+              "id": 100663802,
+              "name": "Grend_G",
+              "url": "https://www.curseforge.com/members/100663802-grend_g?username=grend_g"
+            }
+          ],
+          "gameId": 432,
+          "summary": "Give your rare items a fancier tooltip!  Also adds additional tooltip configuration options.",
+          "categories": [
+            {
+              "name": "Miscellaneous",
+              "slug": "mc-miscellaneous",
+              "url": "https://www.curseforge.com/minecraft/mc-mods/mc-miscellaneous",
+              "dateModified": "2014-06-15T04:27:14.543Z",
+              "gameId": 432,
+              "isClass": false,
+              "id": 425,
+              "iconUrl": "https://media.forgecdn.net/avatars/6/40/635351497693711265.png",
+              "parentCategoryId": 6,
+              "classId": 6
+            },
+            {
+              "name": "Utility & QoL",
+              "slug": "utility-qol",
+              "url": "https://www.curseforge.com/minecraft/mc-mods/utility-qol",
+              "dateModified": "2021-11-17T11:45:09.143Z",
+              "gameId": 432,
+              "isClass": false,
+              "id": 5191,
+              "iconUrl": "https://media.forgecdn.net/avatars/456/558/637727379086405233.png",
+              "parentCategoryId": 6,
+              "classId": 6
+            },
+            {
+              "name": "Adventure and RPG",
+              "slug": "adventure-rpg",
+              "url": "https://www.curseforge.com/minecraft/mc-mods/adventure-rpg",
+              "dateModified": "2014-05-08T17:42:09.54Z",
+              "gameId": 432,
+              "isClass": false,
+              "id": 422,
+              "iconUrl": "https://media.forgecdn.net/avatars/6/37/635351497295252123.png",
+              "parentCategoryId": 6,
+              "classId": 6
+            },
+            {
+              "name": "Armor, Tools, and Weapons",
+              "slug": "armor-weapons-tools",
+              "url": "https://www.curseforge.com/minecraft/mc-mods/armor-weapons-tools",
+              "dateModified": "2014-05-08T17:44:39.057Z",
+              "gameId": 432,
+              "isClass": false,
+              "id": 434,
+              "iconUrl": "https://media.forgecdn.net/avatars/6/47/635351498790409758.png",
+              "parentCategoryId": 6,
+              "classId": 6
+            },
+            {
+              "name": "Cosmetic",
+              "slug": "cosmetic",
+              "url": "https://www.curseforge.com/minecraft/mc-mods/cosmetic",
+              "dateModified": "2014-05-08T17:42:35.597Z",
+              "gameId": 432,
+              "isClass": false,
+              "id": 424,
+              "iconUrl": "https://media.forgecdn.net/avatars/6/39/635351497555976928.png",
+              "parentCategoryId": 6,
+              "classId": 6
+            }
+          ],
+          "status": 4,
+          "primaryCategoryId": 425,
+          "classId": 6,
+          "slug": "legendary-tooltips-fabric",
+          "isFeatured": false,
+          "dateModified": "2023-01-15T08:39:00.103Z",
+          "dateCreated": "2021-10-29T19:53:01.41Z",
+          "dateReleased": "2023-01-14T23:51:56.48Z",
+          "links": {
+            "websiteUrl": "https://www.curseforge.com/minecraft/mc-mods/legendary-tooltips-fabric",
+            "wikiUrl": "https://github.com/AHilyard/LegendaryTooltips/wiki/Configuration-Instructions",
+            "issuesUrl": "https://github.com/AHilyard/LegendaryTooltips/issues",
+            "sourceUrl": "https://github.com/AHilyard/LegendaryTooltips"
+          },
+          "logo": {
+            "id": 450411,
+            "description": "",
+            "thumbnailUrl": "https://media.forgecdn.net/avatars/thumbnails/450/411/256/256/637711339814396004.png",
+            "title": "637711339814396004.png",
+            "url": "https://media.forgecdn.net/avatars/450/411/637711339814396004.png",
+            "modId": 542478
+          },
+          "allowModDistribution": true,
+          "screenshots": [
+            {
+              "id": 404621,
+              "description": "Bring those tooltips to life.",
+              "thumbnailUrl": "https://media.forgecdn.net/attachments/thumbnails/404/621/310/172/beforeafter.png",
+              "title": "Before / After",
+              "url": "https://media.forgecdn.net/attachments/404/621/beforeafter.png",
+              "modId": 542478
+            },
+            {
+              "id": 404623,
+              "description": "Make those comparison tooltips even fancier!",
+              "thumbnailUrl": "https://media.forgecdn.net/attachments/thumbnails/404/623/310/172/2021-10-03_19.png",
+              "title": "Integrates with Equipment Compare!",
+              "url": "https://media.forgecdn.net/attachments/404/623/2021-10-03_19.png",
+              "modId": 542478
+            },
+            {
+              "id": 404622,
+              "description": "Works with all modded item colors!",
+              "thumbnailUrl": "https://media.forgecdn.net/attachments/thumbnails/404/622/310/172/2021-09-29_14.png",
+              "title": "Try out the matching border color option",
+              "url": "https://media.forgecdn.net/attachments/404/622/2021-09-29_14.png",
+              "modId": 542478
+            }
+          ],
+          "mainFileId": 4335100
+        },
+        "curseForgeFile": {
+          "id": 3998293,
+          "gameId": 432,
+          "isAvailable": true,
+          "displayName": "LegendaryTooltips-1.19.2-fabric-1.3.3.jar",
+          "fileName": "LegendaryTooltips-1.19.2-fabric-1.3.3.jar",
+          "releaseType": 1,
+          "fileStatus": 4,
+          "fileDate": "2022-09-20T06:50:49.163Z",
+          "fileLength": 55553,
+          "dependencies": [
+            {
+              "fileId": 0,
+              "modId": 539382,
+              "relationType": 3
+            },
+            {
+              "fileId": 0,
+              "modId": 306612,
+              "relationType": 3
+            },
+            {
+              "fileId": 0,
+              "modId": 541329,
+              "relationType": 2
+            },
+            {
+              "fileId": 0,
+              "modId": 665526,
+              "relationType": 3
+            },
+            {
+              "fileId": 0,
+              "modId": 310111,
+              "relationType": 2
+            },
+            {
+              "fileId": 0,
+              "modId": 547434,
+              "relationType": 3
+            }
+          ],
+          "alternateFileId": 0,
+          "modules": [
+            {
+              "fingerprint": 975981205,
+              "name": "META-INF"
+            },
+            {
+              "fingerprint": 199490766,
+              "name": "legendarytooltips.mixins.json"
+            },
+            {
+              "fingerprint": 2708506627,
+              "name": "legendarytooltips.accesswidener"
+            },
+            {
+              "fingerprint": 559924359,
+              "name": "icon.png"
+            },
+            {
+              "fingerprint": 1830593969,
+              "name": "fabric.mod.json"
+            },
+            {
+              "fingerprint": 1927404872,
+              "name": "assets"
+            },
+            {
+              "fingerprint": 3432125050,
+              "name": "LegendaryTooltips-1.19.2-fabric-refmap.json"
+            },
+            {
+              "fingerprint": 3008930891,
+              "name": "com"
+            }
+          ],
+          "isServerPack": false,
+          "hashes": [
+            {
+              "value": "5edec0968a0b24d559de8c82660d526bc0bd5648",
+              "algo": 1
+            },
+            {
+              "value": "2322dbc0afcc29c37bde221c8cb0df30",
+              "algo": 2
+            }
+          ],
+          "sortableGameVersions": [
+            {
+              "gameVersionPadded": "0",
+              "gameVersion": "",
+              "gameVersionReleaseDate": "2019-08-01T00:00:00Z",
+              "gameVersionName": "Fabric"
+            },
+            {
+              "gameVersionPadded": "0000000001.0000000019.0000000002",
+              "gameVersion": "1.19.2",
+              "gameVersionReleaseDate": "2022-08-05T14:12:22.413Z",
+              "gameVersionName": "1.19.2"
+            },
+            {
+              "gameVersionPadded": "0000000001.0000000019.0000000001",
+              "gameVersion": "1.19.1",
+              "gameVersionReleaseDate": "2022-06-28T00:00:00Z",
+              "gameVersionName": "1.19.1"
+            },
+            {
+              "gameVersionPadded": "0000000001.0000000019",
+              "gameVersion": "1.19",
+              "gameVersionReleaseDate": "2022-06-07T15:38:07.377Z",
+              "gameVersionName": "1.19"
+            }
+          ],
+          "gameVersions": [
+            "Fabric",
+            "1.19.2",
+            "1.19.1",
+            "1.19"
+          ],
+          "fileFingerprint": 2427198471,
+          "modId": 542478
+        },
+        "modrinthProject": {
+          "id": "atHH8NyV",
+          "slug": "legendary-tooltips",
+          "project_type": "mod",
+          "team": "80MpFuhC",
+          "title": "Legendary Tooltips",
+          "description": "Give your rare items a fancier tooltip! Also adds additional tooltip configuration options.",
+          "body": "<p>Ever feel like item tooltips are a little lackluster?&nbsp;&nbsp;<strong>Legendary Tooltips</strong> is here to change that.</p>\n<p><img src=\"https://i.imgur.com/TJfJlnx.gif\" width=\"550\" height=\"336\" /></p>\n<p>This mod will allow you to change the tooltips of a selection of items of your choice to embellished works of art.&nbsp; It also adds a host of other tooltip options including centered item names, tooltip shadows, matching tooltip borders to item colors, separators under item names, 3d item previews, compact tooltips, and more!</p>\n<p>&nbsp;</p>\n<p><strong>This mod requires Iceberg, you can download it <a href=\"https://modrinth.com/mod/iceberg\">here</a>.<br/>Versions 1.3 and up require Prism, you can download it <a href=\"https://modrinth.com/mod/prism-lib\">here</a>.</strong>&nbsp;</p>\n<p>&nbsp;</p>\n<h4><strong>Client / Server</strong></h4>\n<p>This mod is fully client-side.</p>\n<p>&nbsp;</p>\n<h4><strong>Configuration</strong></h4>\n<p>Extensive configuration instructions can be found <a href=\"https://github.com/AHilyard/LegendaryTooltips/wiki/Configuration-Instructions\"><strong>here</strong></a>.&nbsp; Please read this first!</p>\n<p>&nbsp;</p>\n<h5><strong>Players</strong></h5>\n<div class=\"spoiler\">\n<p>The configuration file includes instructions for setting up tooltips however you feel fit, please read the configuration instructions first!&nbsp; Supports up to sixteen custom borders, each of which can be set to apply to items by name, mod, tag, vanilla rarity, item name color, display name, tooltip text, or NBT tag.&nbsp; By default, the mod includes the custom border seen above, and more can easily be added with a resource pack.&nbsp; For an example resource pack that adds ten custom frames, check out <a href=\"https://modrinth.com/resourcepack/eclectic-trove-legendary-tooltips\">Eclectic Trove</a>!</p>\n</div>\n<p>&nbsp;</p>\n<h5><strong>Mod authors</strong></h5>\n<div class=\"spoiler\">\n<p><strong>The following only applies to version 1.2 and later!</strong></p>\n<p>If you are interested in adding custom borders to items in a mod you are coding, it is possible by adding Legendary Tooltips as a dependency.&nbsp; (Use cursemaven.com for this.)</p>\n<p>Use the <span style=\"font-family: 'courier new', courier, monospace;\">LegendaryTooltipsConfig.addFrameDefinition()</span> method to specify a list of selectors for a given ResourceLocation / frame index (see configuration file documentation if you don't understand what this means).&nbsp; This method is not widely supported, so if it isn't working, please try the preferred data-driven method below instead.</p>\n</div>\n<p>&nbsp;</p>\n<h5><strong>Resource pack authors</strong></h5>\n<div class=\"spoiler\">\n<p>Borders can be customized via resource packs.&nbsp; The resource pack is capable of replacing the default border included in the mod with up to 16 custom borders that can be used by the mod.&nbsp; Please see&nbsp;<a href=\"https://modrinth.com/resourcepack/eclectic-trove-legendary-tooltips\">Eclectic Trove</a>&nbsp;for an example--I recommend using this as a starting point when designing your own borders.&nbsp; There is also a template image available to make drawing easier, which can be found <a href=\"https://github.com/AHilyard/LegendaryTooltips/blob/1.16.5/assets/tooltip_borders.psd\">here</a>&nbsp;(this is a Photoshop project, so you will need Photoshop or an image editor that can read Photoshop files like Gimp).</p>\n<p>&nbsp;</p>\n<p><strong>The following only applies to version 1.2 and later!</strong></p>\n<p>As of version 1.2, it is also possible for resource packs and mods to define custom borders using a .json file resource included in the pack/mod itself.&nbsp; This file is loaded differently than normal resources, as they do not replace each other--all border definitions found in all active custom border resource files will be loaded and applied.&nbsp; These files allow you to use&nbsp;<em>any</em> properly-formatted image resource and can specify all colors to match.&nbsp; An example file that describes the file format can be found <a href=\"https://github.com/AHilyard/LegendaryTooltips/blob/1.18/src/main/resources/assets/legendarytooltips/frame_definitions.json\">here</a>.&nbsp; Please read this file first, as it contains a lot of information.&nbsp; You can also find an example in the <em>noconfig</em> variant of Eclectic Trove, which contains definitions for many vanilla items, <a href=\"https://modrinth.com/resourcepack/eclectic-trove-legendary-tooltips/version/1.2.0-noconfig-1.19+1.19.1+1.19.2\">here</a>.&nbsp;&nbsp;</p>\n</div>\n<p>&nbsp;</p>\n<h4><strong>Compatibility</strong></h4>\n<p>Highly compatible, this mod doesn't change the underlying tooltip behavior, only adds on.&nbsp; Also integrates with <a href=\"https://modrinth.com/mod/equipment-compare\">Equipment Compare</a>&nbsp;to provide even fancier comparison tooltips! (See images for an example)</p>\n<p>If you find some sort of compatibility issue, please let me know!</p>\n<p>&nbsp;</p>\n<p><em>You are free to use this mod in modpacks.</em></p>\n<p>&nbsp;</p>\n<p><a href=\"https://discord.gg/S5NQjbXPnb\" rel=\"nofollow\"><img src=\"https://i.imgur.com/yX0xrk0.png\" width=\"200\" height=\"68\" /></a></p>\n<p><strong>Problems, feature request, something else?&nbsp; Join us on Discord!</strong></p>",
+          "published": "2022-11-15T19:38:33.355951Z",
+          "updated": "2023-01-28T00:18:20.180738Z",
+          "status": "approved",
+          "license": {
+            "id": "CC-BY-NC-ND-4.0",
+            "name": "Creative Commons Attribution Non Commercial No Derivatives 4.0 International"
+          },
+          "client_side": "required",
+          "server_side": "unsupported",
+          "categories": [
+            "adventure",
+            "equipment",
+            "utility"
+          ],
+          "icon_url": "https://cdn.modrinth.com/data/atHH8NyV/be363570c1dd3e0954712949ecad2600893bf36f.png",
+          "issues_url": "https://github.com/AHilyard/LegendaryTooltips/issues",
+          "source_url": "https://github.com/AHilyard/LegendaryTooltips/",
+          "wiki_url": "https://github.com/AHilyard/LegendaryTooltips/wiki/Configuration-Instructions",
+          "discord_url": "https://discord.gg/S5NQjbXPnb",
+          "donation_urls": [
+            {
+              "id": "paypal",
+              "platform": "PayPal",
+              "url": "https://www.paypal.com/donate/?business=NYKUAV883JKA2&no_recurring=0&item_name=Thank+you+for+considering+a+donation.+It+helps+to+support+me+by+allowing+me+to+spend+more+time+making+mods+and+games.&currency_code=USD"
+            }
+          ],
+          "gallery": [
+            {
+              "url": "https://cdn.modrinth.com/data/atHH8NyV/images/2ec71690fa88977d699e984223c62d19a430718d.png",
+              "featured": false,
+              "title": "Before / After",
+              "description": "Bring those tooltips to life.",
+              "created": "2022-11-15T19:54:04.687862Z",
+              "ordering": 0.0
+            },
+            {
+              "url": "https://cdn.modrinth.com/data/atHH8NyV/images/9102ae8314c3ab5154b14b7c0ee713f98ba3b70e.png",
+              "featured": false,
+              "title": "Integrates with Equipment Compare!",
+              "description": "Make those comparison tooltips even fancier!",
+              "created": "2022-11-15T19:54:07.151509Z",
+              "ordering": 0.0
+            },
+            {
+              "url": "https://cdn.modrinth.com/data/atHH8NyV/images/7a8688ef134a9a4e34b12200f8a152e62534a7bb.png",
+              "featured": false,
+              "title": "Try out the matching border color option.",
+              "description": "Works with all modded item colors!",
+              "created": "2022-11-15T19:54:05.917969Z",
+              "ordering": 0.0
+            }
+          ]
+        },
+        "modrinthVersion": {
+          "id": "QqAHVnpI",
+          "project_id": "atHH8NyV",
+          "author_id": "3Q6HVcLg",
+          "name": "1.3.3 Fabric (1.19.x)",
+          "version_number": "1.3.3",
+          "changelog": "**1.3.3**\n* Added missing Prism dependency.\n \n**1.3.2**\n* Fixed a bug that could prevent resources from reloading properly.\n \n**1.3.1**\n* Fixed a bug that caused data-defined custom frames to persist after frame definitions files were removed.\n* Fixed a bug that sometimes caused separator lines under item titles to not render.\n* Fixed a bug that caused legacy configuration conversion to fail.\n \n**1.3.0**\n* All color handling is now handled by Prism library.\n    - Now supports web colors for easier color definitions.\n    - Now supports animated colors for both borders and backgrounds.\n    - Now supports automatic border colors, which is the new default.  This means any border images can have automatically determined border and background colors that match the image.\n* The color section in the configuration file is now in a more compact format.  Configuration files in the old format will be automatically converted.\n* Both start and end background colors can now be specified separately.",
+          "date_published": "2022-11-15T19:50:39.474590Z",
+          "version_type": "release",
+          "files": [
+            {
+              "hashes": {
+                "sha512": "4890ac5dfbab9908fe31f185a24baee2f74199bf61c6af4c4fdd3264afefdcf3989d7ce2b092bbdf2cd6852a3f4d7d2ee72ac12e17f6c8b78796a83fcc7df3bd",
+                "sha1": "5edec0968a0b24d559de8c82660d526bc0bd5648"
+              },
+              "url": "https://cdn.modrinth.com/data/atHH8NyV/versions/QqAHVnpI/LegendaryTooltips-1.19.2-fabric-1.3.3.jar",
+              "filename": "LegendaryTooltips-1.19.2-fabric-1.3.3.jar",
+              "primary": true,
+              "size": 55553
+            }
+          ],
+          "dependencies": [
+            {
+              "project_id": "1OE8wbN0",
+              "dependency_type": "required"
+            },
+            {
+              "project_id": "5faXoLqX",
+              "dependency_type": "required"
+            }
+          ],
+          "game_versions": [
+            "1.19",
+            "1.19.1",
+            "1.19.2"
+          ],
+          "loaders": [
+            "fabric"
+          ]
+        }
       },
       {
         "name": "o?o (owo-lib)",
@@ -38282,6 +39915,40 @@
           ],
           "fileFingerprint": 884951372,
           "modId": 323316
+        },
+        "modrinthVersion": {
+          "id": "Xm5BWEiU",
+          "project_id": "yx5ls8Zc",
+          "author_id": "a6eRm92L",
+          "name": "Accurate Block Placement 1.0.15",
+          "version_number": "1.0.15",
+          "changelog": "",
+          "date_published": "2022-11-21T21:16:43.068618Z",
+          "version_type": "release",
+          "files": [
+            {
+              "hashes": {
+                "sha512": "60b1c17c147a791ca8576e9014a43f0c67eb25dce8271c1af1fce20607f33ea5dbbc6e03e9719fe9354a8d773627af6fd34d881faa670cda156f774dba6caa45",
+                "sha1": "9b9ec6fb9e979e41ebc8a20eeed589f0a67b2587"
+              },
+              "url": "https://cdn.modrinth.com/data/yx5ls8Zc/versions/Xm5BWEiU/accurate-block-placement-1.0.15.jar",
+              "filename": "accurate-block-placement-1.0.15.jar",
+              "primary": true,
+              "size": 22649
+            }
+          ],
+          "dependencies": [
+            {
+              "version_id": "25Hm7c3j",
+              "dependency_type": "required"
+            }
+          ],
+          "game_versions": [
+            "1.19.2"
+          ],
+          "loaders": [
+            "fabric"
+          ]
         }
       },
       {
@@ -38754,13 +40421,2065 @@
             "fabric"
           ]
         }
+      },
+      {
+        "name": "Amplified Nether",
+        "version": "1.2.1",
+        "optional": true,
+        "file": "Amplified_Nether_1.19.3_v1.2.1.jar",
+        "type": "mods",
+        "description": "256-tall nether with 3D biomes, mountains and more!",
+        "disabled": false,
+        "userAdded": true,
+        "wasSelected": true,
+        "skipped": false,
+        "curseForgeProjectId": 552176,
+        "curseForgeFileId": 4441298,
+        "curseForgeProject": {
+          "id": 552176,
+          "name": "Amplified Nether",
+          "authors": [
+            {
+              "id": 100241219,
+              "name": "Starmute",
+              "url": "https://www.curseforge.com/members/100241219-starmute?username=starmute"
+            }
+          ],
+          "gameId": 432,
+          "summary": "256-tall nether with 3D biomes, mountains and more!",
+          "categories": [
+            {
+              "name": "World Gen",
+              "slug": "world-gen",
+              "url": "https://www.curseforge.com/minecraft/mc-mods/world-gen",
+              "dateModified": "2017-10-16T21:40:11.473Z",
+              "gameId": 432,
+              "isClass": false,
+              "id": 406,
+              "iconUrl": "https://media.forgecdn.net/avatars/6/26/635351494599748860.png",
+              "parentCategoryId": 6,
+              "classId": 6
+            },
+            {
+              "name": "Biomes",
+              "slug": "world-biomes",
+              "url": "https://www.curseforge.com/minecraft/mc-mods/world-gen/world-biomes",
+              "dateModified": "2014-05-08T17:34:59.587Z",
+              "gameId": 432,
+              "isClass": false,
+              "id": 407,
+              "iconUrl": "https://media.forgecdn.net/avatars/6/22/635351492995856506.png",
+              "parentCategoryId": 406,
+              "classId": 6
+            },
+            {
+              "name": "Dimensions",
+              "slug": "world-dimensions",
+              "url": "https://www.curseforge.com/minecraft/mc-mods/world-gen/world-dimensions",
+              "dateModified": "2014-05-08T17:37:26.84Z",
+              "gameId": 432,
+              "isClass": false,
+              "id": 410,
+              "iconUrl": "https://media.forgecdn.net/avatars/6/25/635351494468414756.png",
+              "parentCategoryId": 406,
+              "classId": 6
+            }
+          ],
+          "status": 4,
+          "primaryCategoryId": 406,
+          "classId": 6,
+          "slug": "amplified-nether",
+          "isFeatured": false,
+          "dateModified": "2023-03-16T22:05:18.237Z",
+          "dateCreated": "2021-12-04T01:21:11.483Z",
+          "dateReleased": "2023-03-16T21:54:38.98Z",
+          "links": {
+            "websiteUrl": "https://www.curseforge.com/minecraft/mc-mods/amplified-nether"
+          },
+          "logo": {
+            "id": 462568,
+            "description": "",
+            "thumbnailUrl": "https://media.forgecdn.net/avatars/thumbnails/462/568/256/256/637741776715826797.png",
+            "title": "637741776715826797.png",
+            "url": "https://media.forgecdn.net/avatars/462/568/637741776715826797.png",
+            "modId": 552176
+          },
+          "allowModDistribution": true,
+          "screenshots": [],
+          "mainFileId": 4441299
+        },
+        "curseForgeFile": {
+          "id": 4441298,
+          "gameId": 432,
+          "isAvailable": true,
+          "displayName": "Amplified Nether 1.19.3 v1.2.1",
+          "fileName": "Amplified_Nether_1.19.3_v1.2.1.jar",
+          "releaseType": 1,
+          "fileStatus": 4,
+          "fileDate": "2023-03-16T21:53:27.91Z",
+          "fileLength": 103483,
+          "dependencies": [],
+          "alternateFileId": 0,
+          "modules": [
+            {
+              "fingerprint": 3503621425,
+              "name": "META-INF"
+            },
+            {
+              "fingerprint": 587319957,
+              "name": "net"
+            },
+            {
+              "fingerprint": 34964521,
+              "name": "license.txt"
+            },
+            {
+              "fingerprint": 2980910411,
+              "name": "data"
+            },
+            {
+              "fingerprint": 1026769344,
+              "name": "pack.mcmeta"
+            },
+            {
+              "fingerprint": 3621918996,
+              "name": "patrons.txt"
+            },
+            {
+              "fingerprint": 2889045442,
+              "name": "pack.png"
+            },
+            {
+              "fingerprint": 2625937003,
+              "name": "fabric.mod.json"
+            },
+            {
+              "fingerprint": 1251262270,
+              "name": "quilt.mod.json"
+            }
+          ],
+          "isServerPack": false,
+          "hashes": [
+            {
+              "value": "3d1e5338440cfce503cc97a78bd2a6e030493f6c",
+              "algo": 1
+            },
+            {
+              "value": "f0e3f6fa1f6f1534e6969acdc732f71f",
+              "algo": 2
+            }
+          ],
+          "sortableGameVersions": [
+            {
+              "gameVersionPadded": "0000000001.0000000019.0000000003",
+              "gameVersion": "1.19.3",
+              "gameVersionReleaseDate": "2022-10-19T00:00:00Z",
+              "gameVersionName": "1.19.3"
+            },
+            {
+              "gameVersionPadded": "0000000001.0000000019.0000000002",
+              "gameVersion": "1.19.2",
+              "gameVersionReleaseDate": "2022-08-05T14:12:22.413Z",
+              "gameVersionName": "1.19.2"
+            },
+            {
+              "gameVersionPadded": "0000000001.0000000019.0000000001",
+              "gameVersion": "1.19.1",
+              "gameVersionReleaseDate": "2022-06-28T00:00:00Z",
+              "gameVersionName": "1.19.1"
+            },
+            {
+              "gameVersionPadded": "0000000001.0000000019",
+              "gameVersion": "1.19",
+              "gameVersionReleaseDate": "2022-06-07T15:38:07.377Z",
+              "gameVersionName": "1.19"
+            }
+          ],
+          "gameVersions": [
+            "1.19.3",
+            "1.19.2",
+            "1.19.1",
+            "1.19"
+          ],
+          "fileFingerprint": 2781496634,
+          "modId": 552176
+        }
+      },
+      {
+        "name": "Better Villages - Fabric",
+        "version": "2.1.0",
+        "optional": true,
+        "file": "bettervillage-fabric-1.19.2-3.0.0.jar",
+        "type": "mods",
+        "description": "This mod enhances the villages in Minecraft by improving existing structure, making them feel more alive and engaging to explore.",
+        "disabled": false,
+        "userAdded": true,
+        "wasSelected": true,
+        "skipped": false,
+        "curseForgeProjectId": 615351,
+        "curseForgeFileId": 4468792,
+        "curseForgeProject": {
+          "id": 615351,
+          "name": "Better Villages - Fabric",
+          "authors": [
+            {
+              "id": 102184735,
+              "name": "jtl_elisa",
+              "url": "https://www.curseforge.com/members/102184735-jtl_elisa?username=jtl_elisa"
+            }
+          ],
+          "gameId": 432,
+          "summary": "This mod enhances the villages in Minecraft by improving existing structure, making them feel more alive and engaging to explore.",
+          "categories": [
+            {
+              "name": "World Gen",
+              "slug": "world-gen",
+              "url": "https://www.curseforge.com/minecraft/mc-mods/world-gen",
+              "dateModified": "2017-10-16T21:40:11.473Z",
+              "gameId": 432,
+              "isClass": false,
+              "id": 406,
+              "iconUrl": "https://media.forgecdn.net/avatars/6/26/635351494599748860.png",
+              "parentCategoryId": 6,
+              "classId": 6
+            },
+            {
+              "name": "Cosmetic",
+              "slug": "cosmetic",
+              "url": "https://www.curseforge.com/minecraft/mc-mods/cosmetic",
+              "dateModified": "2014-05-08T17:42:35.597Z",
+              "gameId": 432,
+              "isClass": false,
+              "id": 424,
+              "iconUrl": "https://media.forgecdn.net/avatars/6/39/635351497555976928.png",
+              "parentCategoryId": 6,
+              "classId": 6
+            },
+            {
+              "name": "Structures",
+              "slug": "world-structures",
+              "url": "https://www.curseforge.com/minecraft/mc-mods/world-gen/world-structures",
+              "dateModified": "2014-05-08T17:37:17.173Z",
+              "gameId": 432,
+              "isClass": false,
+              "id": 409,
+              "iconUrl": "https://media.forgecdn.net/avatars/6/24/635351494371736208.png",
+              "parentCategoryId": 406,
+              "classId": 6
+            },
+            {
+              "name": "Adventure and RPG",
+              "slug": "adventure-rpg",
+              "url": "https://www.curseforge.com/minecraft/mc-mods/adventure-rpg",
+              "dateModified": "2014-05-08T17:42:09.54Z",
+              "gameId": 432,
+              "isClass": false,
+              "id": 422,
+              "iconUrl": "https://media.forgecdn.net/avatars/6/37/635351497295252123.png",
+              "parentCategoryId": 6,
+              "classId": 6
+            }
+          ],
+          "status": 4,
+          "primaryCategoryId": 406,
+          "classId": 6,
+          "slug": "better-village-fabric",
+          "isFeatured": false,
+          "dateModified": "2023-04-01T14:05:02.333Z",
+          "dateCreated": "2022-04-20T00:26:08.46Z",
+          "dateReleased": "2023-04-01T13:53:13.463Z",
+          "links": {
+            "websiteUrl": "https://www.curseforge.com/minecraft/mc-mods/better-village-fabric",
+            "wikiUrl": "",
+            "issuesUrl": "https://github.com/jtorleonstudios/HUB-Better-Villages/issues"
+          },
+          "logo": {
+            "id": 537157,
+            "description": "",
+            "thumbnailUrl": "https://media.forgecdn.net/avatars/thumbnails/537/157/256/256/637860111685186390.png",
+            "title": "637860111685186390.png",
+            "url": "https://media.forgecdn.net/avatars/537/157/637860111685186390.png",
+            "modId": 615351
+          },
+          "allowModDistribution": false,
+          "screenshots": [
+            {
+              "id": 466402,
+              "description": "",
+              "thumbnailUrl": "https://media.forgecdn.net/attachments/thumbnails/466/402/310/172/snow_1.png",
+              "title": "Snowy village",
+              "url": "https://media.forgecdn.net/attachments/466/402/snow_1.png",
+              "modId": 615351
+            },
+            {
+              "id": 466396,
+              "description": "",
+              "thumbnailUrl": "https://media.forgecdn.net/attachments/thumbnails/466/396/310/172/snow_2.png",
+              "title": "Snowy village",
+              "url": "https://media.forgecdn.net/attachments/466/396/snow_2.png",
+              "modId": 615351
+            },
+            {
+              "id": 466398,
+              "description": "",
+              "thumbnailUrl": "https://media.forgecdn.net/attachments/thumbnails/466/398/310/172/snow_3.png",
+              "title": "Snowy village",
+              "url": "https://media.forgecdn.net/attachments/466/398/snow_3.png",
+              "modId": 615351
+            },
+            {
+              "id": 458122,
+              "description": "Category village plains",
+              "thumbnailUrl": "https://media.forgecdn.net/attachments/thumbnails/458/122/310/172/tem_2.png",
+              "title": "Tem's Simple Bedrock PBR",
+              "url": "https://media.forgecdn.net/attachments/458/122/tem_2.png",
+              "modId": 615351
+            },
+            {
+              "id": 466400,
+              "description": "",
+              "thumbnailUrl": "https://media.forgecdn.net/attachments/thumbnails/466/400/310/172/snow_0.png",
+              "title": "Snowy village",
+              "url": "https://media.forgecdn.net/attachments/466/400/snow_0.png",
+              "modId": 615351
+            },
+            {
+              "id": 458121,
+              "description": "Category village plains",
+              "thumbnailUrl": "https://media.forgecdn.net/attachments/thumbnails/458/121/310/172/tem_1.png",
+              "title": "Tem's Simple Bedrock PBR",
+              "url": "https://media.forgecdn.net/attachments/458/121/tem_1.png",
+              "modId": 615351
+            },
+            {
+              "id": 458250,
+              "description": "Category village plains",
+              "thumbnailUrl": "https://media.forgecdn.net/attachments/thumbnails/458/250/310/172/2.png",
+              "title": "Complementary + Tem's Simple Bedrock PBR",
+              "url": "https://media.forgecdn.net/attachments/458/250/2.png",
+              "modId": 615351
+            },
+            {
+              "id": 458135,
+              "description": "By *******",
+              "thumbnailUrl": "https://media.forgecdn.net/attachments/thumbnails/458/135/310/172/ethandstrue.png",
+              "title": "Awesome Picture",
+              "url": "https://media.forgecdn.net/attachments/458/135/ethandstrue.png",
+              "modId": 615351
+            },
+            {
+              "id": 458246,
+              "description": "Category village plains ",
+              "thumbnailUrl": "https://media.forgecdn.net/attachments/thumbnails/458/246/310/172/0.png",
+              "title": "Complementary + Tem's Simple Bedrock PBR",
+              "url": "https://media.forgecdn.net/attachments/458/246/0.png",
+              "modId": 615351
+            },
+            {
+              "id": 458248,
+              "description": "Category village plains",
+              "thumbnailUrl": "https://media.forgecdn.net/attachments/thumbnails/458/248/310/172/1.png",
+              "title": "Complementary + Tem's Simple Bedrock PBR",
+              "url": "https://media.forgecdn.net/attachments/458/248/1.png",
+              "modId": 615351
+            }
+          ],
+          "mainFileId": 4468799
+        },
+        "curseForgeFile": {
+          "id": 4468792,
+          "gameId": 432,
+          "isAvailable": true,
+          "displayName": "Better village 3.0.0 - Fabric 1.19.2",
+          "fileName": "bettervillage-fabric-1.19.2-3.0.0.jar",
+          "releaseType": 1,
+          "fileStatus": 4,
+          "fileDate": "2023-04-01T13:49:35.02Z",
+          "fileLength": 1610134,
+          "dependencies": [
+            {
+              "fileId": 0,
+              "modId": 532730,
+              "relationType": 3
+            }
+          ],
+          "alternateFileId": 0,
+          "modules": [
+            {
+              "fingerprint": 910094419,
+              "name": "META-INF"
+            },
+            {
+              "fingerprint": 2661599297,
+              "name": "pack.png"
+            },
+            {
+              "fingerprint": 2661599297,
+              "name": "assets"
+            },
+            {
+              "fingerprint": 812343042,
+              "name": "license_bettervillage.txt"
+            },
+            {
+              "fingerprint": 1079981806,
+              "name": "changelog.md"
+            },
+            {
+              "fingerprint": 1363461168,
+              "name": "pack.mcmeta"
+            },
+            {
+              "fingerprint": 1018035937,
+              "name": "fabric.mod.json"
+            },
+            {
+              "fingerprint": 224125901,
+              "name": "data"
+            },
+            {
+              "fingerprint": 2024332273,
+              "name": "com"
+            }
+          ],
+          "isServerPack": false,
+          "hashes": [
+            {
+              "value": "2ece48c5e7558b539b93522621c386029e6a1173",
+              "algo": 1
+            },
+            {
+              "value": "c8961562175273cef5ce4fc77335aa80",
+              "algo": 2
+            }
+          ],
+          "sortableGameVersions": [
+            {
+              "gameVersionPadded": "0",
+              "gameVersion": "",
+              "gameVersionReleaseDate": "2019-08-01T00:00:00Z",
+              "gameVersionName": "Fabric"
+            },
+            {
+              "gameVersionPadded": "0000000001.0000000019.0000000002",
+              "gameVersion": "1.19.2",
+              "gameVersionReleaseDate": "2022-08-05T14:12:22.413Z",
+              "gameVersionName": "1.19.2"
+            }
+          ],
+          "gameVersions": [
+            "Fabric",
+            "1.19.2"
+          ],
+          "fileFingerprint": 4090497654,
+          "modId": 615351
+        }
+      },
+      {
+        "name": "Continents",
+        "version": "1.1.2",
+        "optional": true,
+        "file": "Continents_1.19.3_v1.1.2.jar",
+        "type": "mods",
+        "description": "Explore the seas to find realistic continents & islands. Works with most mods!",
+        "disabled": false,
+        "userAdded": true,
+        "wasSelected": true,
+        "skipped": false,
+        "curseForgeProjectId": 682515,
+        "curseForgeFileId": 4441304,
+        "curseForgeProject": {
+          "id": 682515,
+          "name": "Continents",
+          "authors": [
+            {
+              "id": 100241219,
+              "name": "Starmute",
+              "url": "https://www.curseforge.com/members/100241219-starmute?username=starmute"
+            }
+          ],
+          "gameId": 432,
+          "summary": "Explore the seas to find realistic continents & islands. Works with most mods!",
+          "categories": [
+            {
+              "name": "World Gen",
+              "slug": "world-gen",
+              "url": "https://www.curseforge.com/minecraft/mc-mods/world-gen",
+              "dateModified": "2017-10-16T21:40:11.473Z",
+              "gameId": 432,
+              "isClass": false,
+              "id": 406,
+              "iconUrl": "https://media.forgecdn.net/avatars/6/26/635351494599748860.png",
+              "parentCategoryId": 6,
+              "classId": 6
+            }
+          ],
+          "status": 4,
+          "primaryCategoryId": 406,
+          "classId": 6,
+          "slug": "continents",
+          "isFeatured": false,
+          "dateModified": "2023-03-16T22:10:05.183Z",
+          "dateCreated": "2022-09-29T01:40:08.567Z",
+          "dateReleased": "2023-03-16T21:57:36Z",
+          "links": {
+            "websiteUrl": "https://www.curseforge.com/minecraft/mc-mods/continents",
+            "wikiUrl": ""
+          },
+          "logo": {
+            "id": 615460,
+            "description": "",
+            "thumbnailUrl": "https://media.forgecdn.net/avatars/thumbnails/615/460/256/256/638001221544295486.png",
+            "title": "638001221544295486.png",
+            "url": "https://media.forgecdn.net/avatars/615/460/638001221544295486.png",
+            "modId": 682515
+          },
+          "allowModDistribution": true,
+          "screenshots": [],
+          "mainFileId": 4441306
+        },
+        "curseForgeFile": {
+          "id": 4441304,
+          "gameId": 432,
+          "isAvailable": true,
+          "displayName": "Continents 1.19.3 v1.1.2",
+          "fileName": "Continents_1.19.3_v1.1.2.jar",
+          "releaseType": 1,
+          "fileStatus": 4,
+          "fileDate": "2023-03-16T21:56:39.14Z",
+          "fileLength": 57079,
+          "dependencies": [],
+          "alternateFileId": 0,
+          "modules": [
+            {
+              "fingerprint": 1910748608,
+              "name": "META-INF"
+            },
+            {
+              "fingerprint": 1217632650,
+              "name": "net"
+            },
+            {
+              "fingerprint": 34964521,
+              "name": "license.txt"
+            },
+            {
+              "fingerprint": 757226689,
+              "name": "data"
+            },
+            {
+              "fingerprint": 772607902,
+              "name": "pack.mcmeta"
+            },
+            {
+              "fingerprint": 3621918996,
+              "name": "patrons.txt"
+            },
+            {
+              "fingerprint": 1158521447,
+              "name": "pack.png"
+            },
+            {
+              "fingerprint": 2846677,
+              "name": "fabric.mod.json"
+            },
+            {
+              "fingerprint": 544436975,
+              "name": "quilt.mod.json"
+            }
+          ],
+          "isServerPack": false,
+          "hashes": [
+            {
+              "value": "36d4282bf5873a8c04fe5356bfc4be0626f592b3",
+              "algo": 1
+            },
+            {
+              "value": "3bba29f7ebbcbcb492fba4f8198a2307",
+              "algo": 2
+            }
+          ],
+          "sortableGameVersions": [
+            {
+              "gameVersionPadded": "0000000001.0000000019.0000000003",
+              "gameVersion": "1.19.3",
+              "gameVersionReleaseDate": "2022-10-19T00:00:00Z",
+              "gameVersionName": "1.19.3"
+            },
+            {
+              "gameVersionPadded": "0000000001.0000000019.0000000002",
+              "gameVersion": "1.19.2",
+              "gameVersionReleaseDate": "2022-08-05T14:12:22.413Z",
+              "gameVersionName": "1.19.2"
+            },
+            {
+              "gameVersionPadded": "0000000001.0000000019.0000000001",
+              "gameVersion": "1.19.1",
+              "gameVersionReleaseDate": "2022-06-28T00:00:00Z",
+              "gameVersionName": "1.19.1"
+            },
+            {
+              "gameVersionPadded": "0000000001.0000000019",
+              "gameVersion": "1.19",
+              "gameVersionReleaseDate": "2022-06-07T15:38:07.377Z",
+              "gameVersionName": "1.19"
+            }
+          ],
+          "gameVersions": [
+            "1.19.3",
+            "1.19.2",
+            "1.19.1",
+            "1.19"
+          ],
+          "fileFingerprint": 2761810696,
+          "modId": 682515
+        }
+      },
+      {
+        "name": "Effective ?",
+        "version": "1.4",
+        "optional": true,
+        "file": "effective-1.4.jar",
+        "type": "mods",
+        "description": "A client-side mod adding ambient and environmental interaction effects to enhance immersion.",
+        "disabled": false,
+        "userAdded": true,
+        "wasSelected": true,
+        "skipped": false,
+        "curseForgeProjectId": 556381,
+        "curseForgeFileId": 4036489,
+        "curseForgeProject": {
+          "id": 556381,
+          "name": "Effective ?",
+          "authors": [
+            {
+              "id": 33024798,
+              "name": "doctor4t",
+              "url": "https://www.curseforge.com/members/33024798-doctor4t?username=doctor4t"
+            }
+          ],
+          "gameId": 432,
+          "summary": "A client-side mod adding ambient and environmental interaction effects to enhance immersion.",
+          "categories": [
+            {
+              "name": "Cosmetic",
+              "slug": "cosmetic",
+              "url": "https://www.curseforge.com/minecraft/mc-mods/cosmetic",
+              "dateModified": "2014-05-08T17:42:35.597Z",
+              "gameId": 432,
+              "isClass": false,
+              "id": 424,
+              "iconUrl": "https://media.forgecdn.net/avatars/6/39/635351497555976928.png",
+              "parentCategoryId": 6,
+              "classId": 6
+            },
+            {
+              "name": "Miscellaneous",
+              "slug": "mc-miscellaneous",
+              "url": "https://www.curseforge.com/minecraft/mc-mods/mc-miscellaneous",
+              "dateModified": "2014-06-15T04:27:14.543Z",
+              "gameId": 432,
+              "isClass": false,
+              "id": 425,
+              "iconUrl": "https://media.forgecdn.net/avatars/6/40/635351497693711265.png",
+              "parentCategoryId": 6,
+              "classId": 6
+            }
+          ],
+          "status": 4,
+          "primaryCategoryId": 425,
+          "classId": 6,
+          "slug": "effective",
+          "isFeatured": false,
+          "dateModified": "2022-12-31T00:10:22.057Z",
+          "dateCreated": "2021-12-11T20:55:24.33Z",
+          "dateReleased": "2022-11-17T11:18:45.96Z",
+          "links": {
+            "websiteUrl": "https://www.curseforge.com/minecraft/mc-mods/effective",
+            "wikiUrl": "",
+            "issuesUrl": "https://github.com/ladysnake/effective/issues",
+            "sourceUrl": "https://github.com/ladysnake/effective"
+          },
+          "logo": {
+            "id": 467123,
+            "description": "",
+            "thumbnailUrl": "https://media.forgecdn.net/avatars/thumbnails/467/123/256/256/637748529243644133.png",
+            "title": "637748529243644133.png",
+            "url": "https://media.forgecdn.net/avatars/467/123/637748529243644133.png",
+            "modId": 556381
+          },
+          "allowModDistribution": true,
+          "screenshots": [],
+          "mainFileId": 4092345
+        },
+        "curseForgeFile": {
+          "id": 4036489,
+          "gameId": 432,
+          "isAvailable": true,
+          "displayName": "Effective-1.4.jar",
+          "fileName": "effective-1.4.jar",
+          "releaseType": 1,
+          "fileStatus": 4,
+          "fileDate": "2022-10-21T13:15:25.567Z",
+          "fileLength": 827637,
+          "dependencies": [
+            {
+              "fileId": 0,
+              "modId": 306612,
+              "relationType": 3
+            },
+            {
+              "fileId": 0,
+              "modId": 385463,
+              "relationType": 3
+            }
+          ],
+          "alternateFileId": 0,
+          "modules": [
+            {
+              "fingerprint": 4237156191,
+              "name": "META-INF"
+            },
+            {
+              "fingerprint": 1468930303,
+              "name": "LICENSE"
+            },
+            {
+              "fingerprint": 3683745874,
+              "name": "fabric.mod.json"
+            },
+            {
+              "fingerprint": 133406038,
+              "name": "effective.mixins.json"
+            },
+            {
+              "fingerprint": 158056483,
+              "name": "effective.accesswidener"
+            },
+            {
+              "fingerprint": 145360389,
+              "name": "assets"
+            },
+            {
+              "fingerprint": 1371966272,
+              "name": "effective-refmap.json"
+            },
+            {
+              "fingerprint": 3371165947,
+              "name": "ladysnake"
+            }
+          ],
+          "isServerPack": false,
+          "hashes": [
+            {
+              "value": "d59df028b38ceec82a079f1d3747b4ec08868aa5",
+              "algo": 1
+            },
+            {
+              "value": "e4cfa27b4f9efe5b962ece658e0f77f0",
+              "algo": 2
+            }
+          ],
+          "sortableGameVersions": [
+            {
+              "gameVersionPadded": "0",
+              "gameVersion": "",
+              "gameVersionReleaseDate": "2019-08-01T00:00:00Z",
+              "gameVersionName": "Fabric"
+            },
+            {
+              "gameVersionPadded": "0000000001.0000000019.0000000002",
+              "gameVersion": "1.19.2",
+              "gameVersionReleaseDate": "2022-08-05T14:12:22.413Z",
+              "gameVersionName": "1.19.2"
+            }
+          ],
+          "gameVersions": [
+            "Fabric",
+            "1.19.2"
+          ],
+          "fileFingerprint": 46077364,
+          "modId": 556381
+        }
+      },
+      {
+        "name": "Eternal Pets",
+        "version": "1.1.3",
+        "optional": true,
+        "file": "Eternal-Pets-1.19-v1.1.3-Fabric.jar",
+        "type": "mods",
+        "description": "We all love pets in Minecraft, but we hate when they die. Eternal pets is a mod/datapack that adds a pet respawning mechanic to the parrot, the cat, and the wolf!",
+        "disabled": false,
+        "userAdded": true,
+        "wasSelected": true,
+        "skipped": false
+      },
+      {
+        "name": "Library Ferret - Fabric",
+        "version": "4.0.0",
+        "optional": true,
+        "file": "libraryferret-fabric-1.19.2-4.0.0.jar",
+        "type": "mods",
+        "description": "Shared code for my mod.",
+        "disabled": false,
+        "userAdded": true,
+        "wasSelected": true,
+        "skipped": false,
+        "curseForgeProjectId": 532730,
+        "curseForgeFileId": 4435503,
+        "curseForgeProject": {
+          "id": 532730,
+          "name": "Library Ferret - Fabric",
+          "authors": [
+            {
+              "id": 102184735,
+              "name": "jtl_elisa",
+              "url": "https://www.curseforge.com/members/102184735-jtl_elisa?username=jtl_elisa"
+            }
+          ],
+          "gameId": 432,
+          "summary": "Shared code for my mod.",
+          "categories": [
+            {
+              "name": "API and Library",
+              "slug": "library-api",
+              "url": "https://www.curseforge.com/minecraft/mc-mods/library-api",
+              "dateModified": "2014-05-23T03:21:44.06Z",
+              "gameId": 432,
+              "isClass": false,
+              "id": 421,
+              "iconUrl": "https://media.forgecdn.net/avatars/6/36/635351496947765531.png",
+              "parentCategoryId": 6,
+              "classId": 6
+            }
+          ],
+          "status": 4,
+          "primaryCategoryId": 421,
+          "classId": 6,
+          "slug": "library-ferret-fabric",
+          "isFeatured": false,
+          "dateModified": "2023-03-20T05:00:40.503Z",
+          "dateCreated": "2021-10-01T01:04:11.997Z",
+          "dateReleased": "2023-03-18T04:06:18.66Z",
+          "links": {
+            "websiteUrl": "https://www.curseforge.com/minecraft/mc-mods/library-ferret-fabric",
+            "wikiUrl": "https://www.curseforge.com/minecraft/mc-mods/library-ferret-forge/pages/main",
+            "issuesUrl": "https://github.com/jtorleonstudios/HUB-Library-Ferret/issues",
+            "sourceUrl": "http://adfoc.us/70606381530660"
+          },
+          "logo": {
+            "id": 632265,
+            "description": "",
+            "thumbnailUrl": "https://media.forgecdn.net/avatars/thumbnails/632/265/256/256/638031980210893437.png",
+            "title": "638031980210893437.png",
+            "url": "https://media.forgecdn.net/avatars/632/265/638031980210893437.png",
+            "modId": 532730
+          },
+          "allowModDistribution": true,
+          "screenshots": [
+            {
+              "id": 412571,
+              "description": "",
+              "thumbnailUrl": "https://media.forgecdn.net/attachments/thumbnails/412/571/310/172/line_small.png",
+              "title": "smalline",
+              "url": "https://media.forgecdn.net/attachments/412/571/line_small.png",
+              "modId": 532730
+            },
+            {
+              "id": 466923,
+              "description": "brand image jtorleon studios",
+              "thumbnailUrl": "https://media.forgecdn.net/attachments/thumbnails/466/923/310/172/bh_jtl_logo_semitransparent.png",
+              "title": "logo jtorleon studios",
+              "url": "https://media.forgecdn.net/attachments/466/923/bh_jtl_logo_semitransparent.png",
+              "modId": 532730
+            },
+            {
+              "id": 412574,
+              "description": "",
+              "thumbnailUrl": "https://media.forgecdn.net/attachments/thumbnails/412/574/310/172/line_small.png",
+              "title": "largeline",
+              "url": "https://media.forgecdn.net/attachments/412/574/line_small.png",
+              "modId": 532730
+            },
+            {
+              "id": 472792,
+              "description": "",
+              "thumbnailUrl": "https://media.forgecdn.net/attachments/thumbnails/472/792/310/172/2.png",
+              "title": "All item 2.0.0",
+              "url": "https://media.forgecdn.net/attachments/472/792/2.png",
+              "modId": 532730
+            }
+          ],
+          "mainFileId": 4443358
+        },
+        "curseForgeFile": {
+          "id": 4435503,
+          "gameId": 432,
+          "isAvailable": true,
+          "displayName": "Library ferret 4.0.0 - Fabric 1.19.2",
+          "fileName": "libraryferret-fabric-1.19.2-4.0.0.jar",
+          "releaseType": 1,
+          "fileStatus": 4,
+          "fileDate": "2023-03-13T17:46:21.897Z",
+          "fileLength": 171232,
+          "dependencies": [],
+          "alternateFileId": 0,
+          "modules": [
+            {
+              "fingerprint": 3176831249,
+              "name": "META-INF"
+            },
+            {
+              "fingerprint": 1872204028,
+              "name": "pack.png"
+            },
+            {
+              "fingerprint": 812343042,
+              "name": "license_libraryferret.txt"
+            },
+            {
+              "fingerprint": 1765650352,
+              "name": "changelog.md"
+            },
+            {
+              "fingerprint": 2490803130,
+              "name": "pack.mcmeta"
+            },
+            {
+              "fingerprint": 2654092112,
+              "name": "fabric.mod.json"
+            },
+            {
+              "fingerprint": 3328399007,
+              "name": "data"
+            },
+            {
+              "fingerprint": 4239638420,
+              "name": "assets"
+            },
+            {
+              "fingerprint": 3609074025,
+              "name": "com"
+            }
+          ],
+          "isServerPack": false,
+          "hashes": [
+            {
+              "value": "bf21cc3f08aab468157322fad911a2d82760a5cd",
+              "algo": 1
+            },
+            {
+              "value": "9a87ab7ecd66091d266c0ef95a65ff55",
+              "algo": 2
+            }
+          ],
+          "sortableGameVersions": [
+            {
+              "gameVersionPadded": "0",
+              "gameVersion": "",
+              "gameVersionReleaseDate": "2019-08-01T00:00:00Z",
+              "gameVersionName": "Fabric"
+            },
+            {
+              "gameVersionPadded": "0000000001.0000000019.0000000002",
+              "gameVersion": "1.19.2",
+              "gameVersionReleaseDate": "2022-08-05T14:12:22.413Z",
+              "gameVersionName": "1.19.2"
+            }
+          ],
+          "gameVersions": [
+            "Fabric",
+            "1.19.2"
+          ],
+          "fileFingerprint": 874764000,
+          "modId": 532730
+        }
+      },
+      {
+        "name": "Merge Enchantments [Fabric/Quilt & Forge]",
+        "version": "1.10",
+        "optional": true,
+        "file": "merenc-fabric-1.19.x-v1.10.jar",
+        "type": "mods",
+        "description": "merge the enchants that could not be combined like Silk Touch with Fortune, Infinity with Mending, Frost Walker with Depth Strider",
+        "disabled": false,
+        "userAdded": true,
+        "wasSelected": true,
+        "skipped": false,
+        "curseForgeProjectId": 627101,
+        "curseForgeFileId": 3958136,
+        "curseForgeProject": {
+          "id": 627101,
+          "name": "Merge Enchantments [Fabric/Quilt & Forge]",
+          "authors": [
+            {
+              "id": 102512766,
+              "name": "Dplayend",
+              "url": "https://www.curseforge.com/members/102512766-dplayend?username=dplayend"
+            }
+          ],
+          "gameId": 432,
+          "summary": "merge the enchants that could not be combined like Silk Touch with Fortune, Infinity with Mending, Frost Walker with Depth Strider",
+          "categories": [
+            {
+              "name": "Armor, Tools, and Weapons",
+              "slug": "armor-weapons-tools",
+              "url": "https://www.curseforge.com/minecraft/mc-mods/armor-weapons-tools",
+              "dateModified": "2014-05-08T17:44:39.057Z",
+              "gameId": 432,
+              "isClass": false,
+              "id": 434,
+              "iconUrl": "https://media.forgecdn.net/avatars/6/47/635351498790409758.png",
+              "parentCategoryId": 6,
+              "classId": 6
+            }
+          ],
+          "status": 4,
+          "primaryCategoryId": 434,
+          "classId": 6,
+          "slug": "merge-enchantments",
+          "isFeatured": false,
+          "dateModified": "2023-02-08T02:34:19.177Z",
+          "dateCreated": "2022-05-23T22:24:46.863Z",
+          "dateReleased": "2022-12-28T02:36:47.86Z",
+          "links": {
+            "websiteUrl": "https://www.curseforge.com/minecraft/mc-mods/merge-enchantments",
+            "wikiUrl": "",
+            "issuesUrl": "https://github.com/Dplayend/Merge-Enchantments/issues",
+            "sourceUrl": "https://github.com/Dplayend/Merge-Enchantments"
+          },
+          "logo": {
+            "id": 551532,
+            "description": "",
+            "thumbnailUrl": "https://media.forgecdn.net/avatars/thumbnails/551/532/256/256/637889414869032711.png",
+            "title": "637889414869032711.png",
+            "url": "https://media.forgecdn.net/avatars/551/532/637889414869032711.png",
+            "modId": 627101
+          },
+          "allowModDistribution": true,
+          "screenshots": [],
+          "mainFileId": 4275798
+        },
+        "curseForgeFile": {
+          "id": 3958136,
+          "gameId": 432,
+          "isAvailable": true,
+          "displayName": "Merge Enchantments Fabric/Quilt 1.19.x - v1.10",
+          "fileName": "merenc-fabric-1.19.x-v1.10.jar",
+          "releaseType": 1,
+          "fileStatus": 4,
+          "fileDate": "2022-08-30T03:40:38.11Z",
+          "fileLength": 43670,
+          "dependencies": [
+            {
+              "fileId": 0,
+              "modId": 306612,
+              "relationType": 3
+            },
+            {
+              "fileId": 0,
+              "modId": 308702,
+              "relationType": 2
+            },
+            {
+              "fileId": 0,
+              "modId": 348521,
+              "relationType": 2
+            }
+          ],
+          "alternateFileId": 0,
+          "modules": [
+            {
+              "fingerprint": 3531164432,
+              "name": "META-INF"
+            },
+            {
+              "fingerprint": 18375977,
+              "name": "LICENSE_merenc"
+            },
+            {
+              "fingerprint": 1735243355,
+              "name": "merenc.mixins.json"
+            },
+            {
+              "fingerprint": 3417663204,
+              "name": "fabric.mod.json"
+            },
+            {
+              "fingerprint": 113459527,
+              "name": "assets"
+            },
+            {
+              "fingerprint": 4072550402,
+              "name": "merenc-refmap.json"
+            },
+            {
+              "fingerprint": 3719144821,
+              "name": "com"
+            }
+          ],
+          "isServerPack": false,
+          "hashes": [
+            {
+              "value": "80d1ebb2643fa932288a27df392856d588343ab9",
+              "algo": 1
+            },
+            {
+              "value": "fd3d6c2586cceb381ced917c85f88f08",
+              "algo": 2
+            }
+          ],
+          "sortableGameVersions": [
+            {
+              "gameVersionPadded": "0",
+              "gameVersion": "",
+              "gameVersionReleaseDate": "2019-08-01T00:00:00Z",
+              "gameVersionName": "Fabric"
+            },
+            {
+              "gameVersionPadded": "0000000001.0000000019",
+              "gameVersion": "1.19",
+              "gameVersionReleaseDate": "2022-02-21T00:00:00Z",
+              "gameVersionName": "1.19-Snapshot"
+            },
+            {
+              "gameVersionPadded": "0000000001.0000000019.0000000002",
+              "gameVersion": "1.19.2",
+              "gameVersionReleaseDate": "2022-08-05T14:12:22.413Z",
+              "gameVersionName": "1.19.2"
+            },
+            {
+              "gameVersionPadded": "0000000001.0000000019.0000000001",
+              "gameVersion": "1.19.1",
+              "gameVersionReleaseDate": "2022-06-28T00:00:00Z",
+              "gameVersionName": "1.19.1"
+            },
+            {
+              "gameVersionPadded": "0",
+              "gameVersion": "",
+              "gameVersionReleaseDate": "2022-05-26T00:00:00Z",
+              "gameVersionName": "Quilt"
+            },
+            {
+              "gameVersionPadded": "0000000001.0000000019",
+              "gameVersion": "1.19",
+              "gameVersionReleaseDate": "2022-06-07T15:38:07.377Z",
+              "gameVersionName": "1.19"
+            }
+          ],
+          "gameVersions": [
+            "Fabric",
+            "1.19-Snapshot",
+            "1.19.2",
+            "1.19.1",
+            "Quilt",
+            "1.19"
+          ],
+          "fileFingerprint": 118485268,
+          "modId": 627101
+        }
+      },
+      {
+        "name": "No Fade",
+        "version": "1.18-2.0.1",
+        "optional": true,
+        "file": "nofade-1.18-2.0.1.jar",
+        "type": "mods",
+        "description": "Remove fade out animations in Minecraft",
+        "disabled": false,
+        "userAdded": true,
+        "wasSelected": true,
+        "skipped": false,
+        "curseForgeProjectId": 452768,
+        "curseForgeFileId": 3550935,
+        "curseForgeProject": {
+          "id": 452768,
+          "name": "No Fade",
+          "authors": [
+            {
+              "id": 101195824,
+              "name": "UltimateBoomer",
+              "url": "https://www.curseforge.com/members/101195824-ultimateboomer?username=ultimateboomer"
+            }
+          ],
+          "gameId": 432,
+          "summary": "Remove fade out animations in Minecraft",
+          "categories": [
+            {
+              "name": "Miscellaneous",
+              "slug": "mc-miscellaneous",
+              "url": "https://www.curseforge.com/minecraft/mc-mods/mc-miscellaneous",
+              "dateModified": "2014-06-15T04:27:14.543Z",
+              "gameId": 432,
+              "isClass": false,
+              "id": 425,
+              "iconUrl": "https://media.forgecdn.net/avatars/6/40/635351497693711265.png",
+              "parentCategoryId": 6,
+              "classId": 6
+            }
+          ],
+          "status": 4,
+          "primaryCategoryId": 425,
+          "classId": 6,
+          "slug": "no-fade",
+          "isFeatured": false,
+          "dateModified": "2022-06-16T18:58:10.783Z",
+          "dateCreated": "2021-03-03T04:03:47.77Z",
+          "dateReleased": "2021-12-05T22:02:48.2Z",
+          "links": {
+            "websiteUrl": "https://www.curseforge.com/minecraft/mc-mods/no-fade",
+            "wikiUrl": "",
+            "issuesUrl": "https://github.com/UltimateBoomer/mc-no-fade/issues",
+            "sourceUrl": "https://github.com/UltimateBoomer/mc-no-fade"
+          },
+          "logo": {
+            "id": 350400,
+            "description": "",
+            "thumbnailUrl": "https://media.forgecdn.net/avatars/thumbnails/350/400/256/256/637503410278001061.png",
+            "title": "637503410278001061.png",
+            "url": "https://media.forgecdn.net/avatars/350/400/637503410278001061.png",
+            "modId": 452768
+          },
+          "allowModDistribution": true,
+          "screenshots": [],
+          "mainFileId": 3550935
+        },
+        "curseForgeFile": {
+          "id": 3550935,
+          "gameId": 432,
+          "isAvailable": true,
+          "displayName": "nofade-1.18-2.0.1.jar",
+          "fileName": "nofade-1.18-2.0.1.jar",
+          "releaseType": 1,
+          "fileStatus": 4,
+          "fileDate": "2021-12-05T22:02:48.2Z",
+          "fileLength": 16197,
+          "dependencies": [],
+          "alternateFileId": 0,
+          "modules": [
+            {
+              "fingerprint": 4269955104,
+              "name": "META-INF"
+            },
+            {
+              "fingerprint": 2451326474,
+              "name": "LICENSE_nofade"
+            },
+            {
+              "fingerprint": 2882514328,
+              "name": "nofade.mixins.json"
+            },
+            {
+              "fingerprint": 1959985555,
+              "name": "fabric.mod.json"
+            },
+            {
+              "fingerprint": 4268197462,
+              "name": "assets"
+            },
+            {
+              "fingerprint": 1981166928,
+              "name": "nofade-refmap.json"
+            },
+            {
+              "fingerprint": 3521090379,
+              "name": "io"
+            }
+          ],
+          "isServerPack": false,
+          "hashes": [
+            {
+              "value": "76951fe09b742ba0ca07acc7c54e4c3760157071",
+              "algo": 1
+            },
+            {
+              "value": "c3093983da90178fc702c5ff7b39096f",
+              "algo": 2
+            }
+          ],
+          "sortableGameVersions": [
+            {
+              "gameVersionPadded": "0000000001.0000000018.0000000001",
+              "gameVersion": "1.18.1",
+              "gameVersionReleaseDate": "2021-12-10T10:37:38.06Z",
+              "gameVersionName": "1.18.1"
+            },
+            {
+              "gameVersionPadded": "0",
+              "gameVersion": "",
+              "gameVersionReleaseDate": "2019-08-01T00:00:00Z",
+              "gameVersionName": "Fabric"
+            },
+            {
+              "gameVersionPadded": "0000000001.0000000018.0000000002",
+              "gameVersion": "1.18.2",
+              "gameVersionReleaseDate": "2022-02-28T14:23:37.723Z",
+              "gameVersionName": "1.18.2"
+            },
+            {
+              "gameVersionPadded": "0000000001.0000000018",
+              "gameVersion": "1.18",
+              "gameVersionReleaseDate": "2021-11-30T16:23:01.427Z",
+              "gameVersionName": "1.18"
+            },
+            {
+              "gameVersionPadded": "0000000001.0000000019",
+              "gameVersion": "1.19",
+              "gameVersionReleaseDate": "2022-06-07T15:38:07.377Z",
+              "gameVersionName": "1.19"
+            }
+          ],
+          "gameVersions": [
+            "1.18.1",
+            "Fabric",
+            "1.18.2",
+            "1.18",
+            "1.19"
+          ],
+          "fileFingerprint": 4017265390,
+          "modId": 452768
+        }
+      },
+      {
+        "name": "Structory",
+        "version": "1.3.1a",
+        "optional": true,
+        "file": "Structory_1.19.3_v1.3.1a.jar",
+        "type": "mods",
+        "description": "An atmospheric structure mod for Fabric/Forge/Quilt.",
+        "disabled": false,
+        "userAdded": true,
+        "wasSelected": true,
+        "skipped": false,
+        "curseForgeProjectId": 636540,
+        "curseForgeFileId": 4441631,
+        "curseForgeProject": {
+          "id": 636540,
+          "name": "Structory",
+          "authors": [
+            {
+              "id": 102974996,
+              "name": "botanydev",
+              "url": "https://www.curseforge.com/members/102974996-botanydev?username=botanydev"
+            }
+          ],
+          "gameId": 432,
+          "summary": "An atmospheric structure mod for Fabric/Forge/Quilt.",
+          "categories": [
+            {
+              "name": "Cosmetic",
+              "slug": "cosmetic",
+              "url": "https://www.curseforge.com/minecraft/mc-mods/cosmetic",
+              "dateModified": "2014-05-08T17:42:35.597Z",
+              "gameId": 432,
+              "isClass": false,
+              "id": 424,
+              "iconUrl": "https://media.forgecdn.net/avatars/6/39/635351497555976928.png",
+              "parentCategoryId": 6,
+              "classId": 6
+            },
+            {
+              "name": "Adventure and RPG",
+              "slug": "adventure-rpg",
+              "url": "https://www.curseforge.com/minecraft/mc-mods/adventure-rpg",
+              "dateModified": "2014-05-08T17:42:09.54Z",
+              "gameId": 432,
+              "isClass": false,
+              "id": 422,
+              "iconUrl": "https://media.forgecdn.net/avatars/6/37/635351497295252123.png",
+              "parentCategoryId": 6,
+              "classId": 6
+            },
+            {
+              "name": "Mobs",
+              "slug": "world-mobs",
+              "url": "https://www.curseforge.com/minecraft/mc-mods/world-gen/world-mobs",
+              "dateModified": "2014-05-08T17:46:59.507Z",
+              "gameId": 432,
+              "isClass": false,
+              "id": 411,
+              "iconUrl": "https://media.forgecdn.net/avatars/6/53/635351500195070414.png",
+              "parentCategoryId": 406,
+              "classId": 6
+            },
+            {
+              "name": "Structures",
+              "slug": "world-structures",
+              "url": "https://www.curseforge.com/minecraft/mc-mods/world-gen/world-structures",
+              "dateModified": "2014-05-08T17:37:17.173Z",
+              "gameId": 432,
+              "isClass": false,
+              "id": 409,
+              "iconUrl": "https://media.forgecdn.net/avatars/6/24/635351494371736208.png",
+              "parentCategoryId": 406,
+              "classId": 6
+            }
+          ],
+          "status": 4,
+          "primaryCategoryId": 409,
+          "classId": 6,
+          "slug": "structory",
+          "isFeatured": false,
+          "dateModified": "2023-03-17T00:57:29.433Z",
+          "dateCreated": "2022-06-24T04:10:56.43Z",
+          "dateReleased": "2023-03-17T00:51:19.533Z",
+          "links": {
+            "websiteUrl": "https://www.curseforge.com/minecraft/mc-mods/structory",
+            "wikiUrl": ""
+          },
+          "logo": {
+            "id": 562581,
+            "description": "",
+            "thumbnailUrl": "https://media.forgecdn.net/avatars/thumbnails/562/581/256/256/637916418629477919.png",
+            "title": "637916418629477919.png",
+            "url": "https://media.forgecdn.net/avatars/562/581/637916418629477919.png",
+            "modId": 636540
+          },
+          "allowModDistribution": false,
+          "screenshots": [],
+          "mainFileId": 4441634
+        },
+        "curseForgeFile": {
+          "id": 4441631,
+          "gameId": 432,
+          "isAvailable": true,
+          "displayName": "Structory 1.19.3 v1.3.1a",
+          "fileName": "Structory_1.19.3_v1.3.1a.jar",
+          "releaseType": 1,
+          "fileStatus": 4,
+          "fileDate": "2023-03-17T00:49:48.223Z",
+          "fileLength": 1243852,
+          "dependencies": [],
+          "alternateFileId": 0,
+          "modules": [
+            {
+              "fingerprint": 4292051838,
+              "name": "META-INF"
+            },
+            {
+              "fingerprint": 353088608,
+              "name": "net"
+            },
+            {
+              "fingerprint": 34964521,
+              "name": "license.txt"
+            },
+            {
+              "fingerprint": 2935110660,
+              "name": "data"
+            },
+            {
+              "fingerprint": 1080821166,
+              "name": "pack.mcmeta"
+            },
+            {
+              "fingerprint": 3621918996,
+              "name": "patrons.txt"
+            },
+            {
+              "fingerprint": 883439953,
+              "name": "pack.png"
+            },
+            {
+              "fingerprint": 2332009703,
+              "name": "fabric.mod.json"
+            },
+            {
+              "fingerprint": 3020838230,
+              "name": "quilt.mod.json"
+            }
+          ],
+          "isServerPack": false,
+          "hashes": [
+            {
+              "value": "ae50731f933366dc682bef8b54a637e099235c5b",
+              "algo": 1
+            },
+            {
+              "value": "48ee90282ddc6f627bb2287175a62c6b",
+              "algo": 2
+            }
+          ],
+          "sortableGameVersions": [
+            {
+              "gameVersionPadded": "0000000001.0000000019.0000000003",
+              "gameVersion": "1.19.3",
+              "gameVersionReleaseDate": "2022-10-19T00:00:00Z",
+              "gameVersionName": "1.19.3"
+            },
+            {
+              "gameVersionPadded": "0000000001.0000000019.0000000002",
+              "gameVersion": "1.19.2",
+              "gameVersionReleaseDate": "2022-08-05T14:12:22.413Z",
+              "gameVersionName": "1.19.2"
+            },
+            {
+              "gameVersionPadded": "0000000001.0000000019.0000000001",
+              "gameVersion": "1.19.1",
+              "gameVersionReleaseDate": "2022-06-28T00:00:00Z",
+              "gameVersionName": "1.19.1"
+            },
+            {
+              "gameVersionPadded": "0000000001.0000000019",
+              "gameVersion": "1.19",
+              "gameVersionReleaseDate": "2022-06-07T15:38:07.377Z",
+              "gameVersionName": "1.19"
+            }
+          ],
+          "gameVersions": [
+            "1.19.3",
+            "1.19.2",
+            "1.19.1",
+            "1.19"
+          ],
+          "fileFingerprint": 864569845,
+          "modId": 636540
+        }
+      },
+      {
+        "name": "Xaero's World Map",
+        "version": "1.29.5",
+        "optional": true,
+        "file": "XaerosWorldMap_1.29.5_Fabric_1.19.1.jar",
+        "type": "mods",
+        "description": "Adds a fullscreen worldmap which shows you what you have explored in the world. Can work together with Xaero's Minimap.",
+        "disabled": false,
+        "userAdded": true,
+        "wasSelected": true,
+        "skipped": false,
+        "curseForgeProjectId": 317780,
+        "curseForgeFileId": 4470076,
+        "curseForgeProject": {
+          "id": 317780,
+          "name": "Xaero's World Map",
+          "authors": [
+            {
+              "id": 12362980,
+              "name": "xaero96",
+              "url": "https://www.curseforge.com/members/12362980-xaero96?username=xaero96"
+            }
+          ],
+          "gameId": 432,
+          "summary": "Adds a fullscreen worldmap which shows you what you have explored in the world. Can work together with Xaero's Minimap.",
+          "categories": [
+            {
+              "name": "Player Transport",
+              "slug": "technology-player-transport",
+              "url": "https://www.curseforge.com/minecraft/mc-mods/technology/technology-player-transport",
+              "dateModified": "2014-05-08T17:38:58.357Z",
+              "gameId": 432,
+              "isClass": false,
+              "id": 414,
+              "iconUrl": "https://media.forgecdn.net/avatars/6/29/635351495383551178.png",
+              "parentCategoryId": 412,
+              "classId": 6
+            },
+            {
+              "name": "Map and Information",
+              "slug": "map-information",
+              "url": "https://www.curseforge.com/minecraft/mc-mods/map-information",
+              "dateModified": "2014-05-08T17:42:23.74Z",
+              "gameId": 432,
+              "isClass": false,
+              "id": 423,
+              "iconUrl": "https://media.forgecdn.net/avatars/6/38/635351497437388438.png",
+              "parentCategoryId": 6,
+              "classId": 6
+            }
+          ],
+          "status": 4,
+          "primaryCategoryId": 423,
+          "classId": 6,
+          "slug": "xaeros-world-map",
+          "isFeatured": false,
+          "dateModified": "2023-04-02T10:33:14.747Z",
+          "dateCreated": "2019-03-20T13:35:11.837Z",
+          "dateReleased": "2023-04-02T09:58:35.423Z",
+          "links": {
+            "websiteUrl": "https://www.curseforge.com/minecraft/mc-mods/xaeros-world-map",
+            "wikiUrl": ""
+          },
+          "logo": {
+            "id": 196654,
+            "description": "",
+            "thumbnailUrl": "https://media.forgecdn.net/avatars/thumbnails/196/654/256/256/636886857118683130.png",
+            "title": "636886857118683130.png",
+            "url": "https://media.forgecdn.net/avatars/196/654/636886857118683130.png",
+            "modId": 317780
+          },
+          "allowModDistribution": true,
+          "screenshots": [
+            {
+              "id": 248986,
+              "description": "",
+              "thumbnailUrl": "https://media.forgecdn.net/attachments/thumbnails/248/986/310/172/357h91j.png",
+              "title": "Nether",
+              "url": "https://media.forgecdn.net/attachments/248/986/357h91j.png",
+              "modId": 317780
+            },
+            {
+              "id": 248985,
+              "description": "",
+              "thumbnailUrl": "https://media.forgecdn.net/attachments/thumbnails/248/985/310/172/2czdn3k.jpg",
+              "title": "Overworld",
+              "url": "https://media.forgecdn.net/attachments/248/985/2czdn3k.jpg",
+              "modId": 317780
+            },
+            {
+              "id": 248987,
+              "description": "",
+              "thumbnailUrl": "https://media.forgecdn.net/attachments/thumbnails/248/987/310/172/10xwx6t.png",
+              "title": "Night",
+              "url": "https://media.forgecdn.net/attachments/248/987/10xwx6t.png",
+              "modId": 317780
+            }
+          ],
+          "mainFileId": 4454669
+        },
+        "curseForgeFile": {
+          "id": 4470076,
+          "gameId": 432,
+          "isAvailable": true,
+          "displayName": "v1.29.5 for Fabric 1.19.2 (or .1)",
+          "fileName": "XaerosWorldMap_1.29.5_Fabric_1.19.1.jar",
+          "releaseType": 3,
+          "fileStatus": 4,
+          "fileDate": "2023-04-02T09:56:35.713Z",
+          "fileLength": 803563,
+          "dependencies": [
+            {
+              "fileId": 0,
+              "modId": 636608,
+              "relationType": 2
+            },
+            {
+              "fileId": 0,
+              "modId": 306612,
+              "relationType": 3
+            }
+          ],
+          "alternateFileId": 0,
+          "modules": [
+            {
+              "fingerprint": 2347487614,
+              "name": "META-INF"
+            },
+            {
+              "fingerprint": 1392384263,
+              "name": "assets"
+            },
+            {
+              "fingerprint": 2699551392,
+              "name": "fabric.mod.json"
+            },
+            {
+              "fingerprint": 3306116328,
+              "name": "xaero"
+            },
+            {
+              "fingerprint": 1520239254,
+              "name": "xaeroworldmap.mixins.json"
+            },
+            {
+              "fingerprint": 3278641396,
+              "name": "xaero_mod1.17-ref10-refmap.json"
+            },
+            {
+              "fingerprint": 1534193994,
+              "name": "xaero_mod1.19-ref13-refmap.json"
+            }
+          ],
+          "isServerPack": false,
+          "hashes": [
+            {
+              "value": "f5e659df4bb8276cce0ba40afd672895940a7900",
+              "algo": 1
+            },
+            {
+              "value": "098a622533e5e86b9bab6c3c96dfaba8",
+              "algo": 2
+            }
+          ],
+          "sortableGameVersions": [
+            {
+              "gameVersionPadded": "0",
+              "gameVersion": "",
+              "gameVersionReleaseDate": "2019-08-01T00:00:00Z",
+              "gameVersionName": "Fabric"
+            },
+            {
+              "gameVersionPadded": "0000000001.0000000019.0000000002",
+              "gameVersion": "1.19.2",
+              "gameVersionReleaseDate": "2022-08-05T14:12:22.413Z",
+              "gameVersionName": "1.19.2"
+            },
+            {
+              "gameVersionPadded": "0000000001.0000000019.0000000001",
+              "gameVersion": "1.19.1",
+              "gameVersionReleaseDate": "2022-06-28T00:00:00Z",
+              "gameVersionName": "1.19.1"
+            },
+            {
+              "gameVersionPadded": "0",
+              "gameVersion": "",
+              "gameVersionReleaseDate": "2022-05-26T00:00:00Z",
+              "gameVersionName": "Quilt"
+            }
+          ],
+          "gameVersions": [
+            "Fabric",
+            "1.19.2",
+            "1.19.1",
+            "Quilt"
+          ],
+          "fileFingerprint": 4291362212,
+          "modId": 317780
+        }
+      },
+      {
+        "name": "Architects-Toolbox-v1.0-1.19-Data-Resource-Pack.zip",
+        "version": "Unknown",
+        "optional": true,
+        "file": "Architects-Toolbox-v1.0-1.19-Data-Resource-Pack.zip",
+        "type": "resourcepack",
+        "disabled": false,
+        "userAdded": true,
+        "wasSelected": true,
+        "skipped": false
+      },
+      {
+        "name": "Eclectic Trove (Legendary Tooltips)",
+        "version": "Unknown",
+        "optional": true,
+        "file": "EclecticTrove-1.19.3-1.2.0.zip",
+        "type": "resourcepack",
+        "description": "Adds 10 various custom frames for use with Legendary Tooltips.",
+        "disabled": false,
+        "userAdded": true,
+        "wasSelected": true,
+        "skipped": false,
+        "curseForgeProjectId": 538850,
+        "curseForgeFileId": 4466260,
+        "curseForgeProject": {
+          "id": 538850,
+          "name": "Eclectic Trove (Legendary Tooltips)",
+          "authors": [
+            {
+              "id": 100663802,
+              "name": "Grend_G",
+              "url": "https://www.curseforge.com/members/100663802-grend_g?username=grend_g"
+            }
+          ],
+          "gameId": 432,
+          "summary": "Adds 10 various custom frames for use with Legendary Tooltips.",
+          "categories": [
+            {
+              "name": "Mod Support",
+              "slug": "mod-support",
+              "url": "https://www.curseforge.com/minecraft/texture-packs/mod-support",
+              "dateModified": "2020-06-30T17:54:39.16Z",
+              "gameId": 432,
+              "isClass": false,
+              "id": 4465,
+              "iconUrl": "https://media.forgecdn.net/avatars/6/623/635363922411546592.png",
+              "parentCategoryId": 12,
+              "classId": 12
+            },
+            {
+              "name": "Miscellaneous",
+              "slug": "miscellaneous",
+              "url": "https://www.curseforge.com/minecraft/texture-packs/miscellaneous",
+              "dateModified": "2020-06-30T17:54:39.157Z",
+              "gameId": 432,
+              "isClass": false,
+              "id": 405,
+              "iconUrl": "https://media.forgecdn.net/avatars/6/59/635351501101869320.png",
+              "parentCategoryId": 12,
+              "classId": 12
+            },
+            {
+              "name": "Medieval",
+              "slug": "medieval",
+              "url": "https://www.curseforge.com/minecraft/texture-packs/medieval",
+              "dateModified": "2020-06-30T17:54:39.137Z",
+              "gameId": 432,
+              "isClass": false,
+              "id": 402,
+              "iconUrl": "https://media.forgecdn.net/avatars/6/56/635351500686687873.png",
+              "parentCategoryId": 12,
+              "classId": 12
+            },
+            {
+              "name": "32x",
+              "slug": "thirty-two-x",
+              "url": "https://www.curseforge.com/minecraft/texture-packs/thirty-two-x",
+              "dateModified": "2020-06-30T17:54:39.087Z",
+              "gameId": 432,
+              "isClass": false,
+              "id": 394,
+              "iconUrl": "https://media.forgecdn.net/avatars/6/77/635351599006894511.png",
+              "parentCategoryId": 12,
+              "classId": 12
+            }
+          ],
+          "status": 4,
+          "primaryCategoryId": 394,
+          "classId": 12,
+          "slug": "eclectic-trove-legendary-tooltips",
+          "isFeatured": false,
+          "dateModified": "2023-03-30T20:20:50.923Z",
+          "dateCreated": "2021-10-21T01:28:43.08Z",
+          "dateReleased": "2023-03-30T20:15:05.387Z",
+          "links": {
+            "websiteUrl": "https://www.curseforge.com/minecraft/texture-packs/eclectic-trove-legendary-tooltips",
+            "wikiUrl": "https://github.com/AHilyard/LegendaryTooltips/wiki/Configuration-Instructions"
+          },
+          "logo": {
+            "id": 446386,
+            "description": "",
+            "thumbnailUrl": "https://media.forgecdn.net/avatars/thumbnails/446/386/256/256/637703765231062618.png",
+            "title": "637703765231062618.png",
+            "url": "https://media.forgecdn.net/avatars/446/386/637703765231062618.png",
+            "modId": 538850
+          },
+          "allowModDistribution": true,
+          "screenshots": [
+            {
+              "id": 482519,
+              "description": "Make sure to download Legendary Tooltips 1.3 for animated border support.",
+              "thumbnailUrl": "https://media.forgecdn.net/attachments/thumbnails/482/519/310/172/fire_frame_demo.gif",
+              "title": "Now with animation! (Click me)",
+              "url": "https://media.forgecdn.net/attachments/482/519/fire_frame_demo.gif",
+              "modId": 538850
+            },
+            {
+              "id": 402635,
+              "description": "Aren't they beautiful?",
+              "thumbnailUrl": "https://media.forgecdn.net/attachments/thumbnails/402/635/310/172/screenshot.png",
+              "title": "All the frames.",
+              "url": "https://media.forgecdn.net/attachments/402/635/screenshot.png",
+              "modId": 538850
+            }
+          ],
+          "mainFileId": 4466260
+        },
+        "curseForgeFile": {
+          "id": 4466260,
+          "gameId": 432,
+          "isAvailable": true,
+          "displayName": "EclecticTrove-1.19.3-1.2.0.zip",
+          "fileName": "EclecticTrove-1.19.3-1.2.0.zip",
+          "releaseType": 1,
+          "fileStatus": 4,
+          "fileDate": "2023-03-30T20:15:05.387Z",
+          "fileLength": 7912,
+          "dependencies": [],
+          "alternateFileId": 0,
+          "modules": [
+            {
+              "fingerprint": 1527414978,
+              "name": "pack.png"
+            },
+            {
+              "fingerprint": 810183744,
+              "name": "assets"
+            },
+            {
+              "fingerprint": 292337451,
+              "name": "pack.mcmeta"
+            }
+          ],
+          "isServerPack": false,
+          "hashes": [
+            {
+              "value": "1b43277f53b387f0d8efc0e5f55b87c551d1ee0b",
+              "algo": 1
+            },
+            {
+              "value": "37d0306dfcc4a158901636b222f9bd2c",
+              "algo": 2
+            }
+          ],
+          "sortableGameVersions": [
+            {
+              "gameVersionPadded": "0000000001.0000000019.0000000003",
+              "gameVersion": "1.19.3",
+              "gameVersionReleaseDate": "2022-10-19T00:00:00Z",
+              "gameVersionName": "1.19.3"
+            }
+          ],
+          "gameVersions": [
+            "1.19.3"
+          ],
+          "fileFingerprint": 102141825,
+          "modId": 538850
+        }
+      },
+      {
+        "name": "Fancy Foliage",
+        "version": "Unknown",
+        "optional": true,
+        "file": "Fancy-Foliage-1.19x-1.0.1-Resource-Pack.zip",
+        "type": "resourcepack",
+        "description": "Fancy Foliage is an aesthetic Minecraft resource pack that adds many new variations to Minecraft's plants!",
+        "disabled": false,
+        "userAdded": true,
+        "wasSelected": true,
+        "skipped": false,
+        "modrinthProject": {
+          "id": "1if5M57A",
+          "slug": "fancy-foliage",
+          "project_type": "resourcepack",
+          "team": "t8lpcI5c",
+          "title": "Fancy Foliage",
+          "description": "Fancy Foliage is an aesthetic Minecraft resource pack that adds many new variations to Minecraft's plants!",
+          "body": "# ![image](https://lunareclipse.studio/assets/img/fancy-foliage/banner-text.png)\n\n## **Resource Pack for Minecraft: Java Edition**\n\nFancy Foliage is an aesthetic Minecraft resourcepack that adds many new variations to Minecraft's plants!\n\n![1](https://cdn.modrinth.com/data/1if5M57A/images/096e7bc808b3a060940ffea879c79517d463917c.png)\n![2](https://cdn.modrinth.com/data/1if5M57A/images/e9540f9cfb7d1e9c47a0543aa524b4de3b0c7f9a.png)\n![3](https://cdn.modrinth.com/data/1if5M57A/images/2dff98a22d91909f2a219700a5f3877a9f2c89ef.png)\n![4](https://cdn.modrinth.com/data/1if5M57A/images/07701f83eca06ea7b721cb8dc61838d271fa933d.png)\n![5](https://cdn.modrinth.com/data/1if5M57A/images/c7947e8c8bfa60cb2661ea0214c44cc48fb53858.png)\n![6](https://cdn.modrinth.com/data/1if5M57A/images/1cf2b4ddccd656b67cf7365c55fbd8b758e8925d.png)\n\n## **Installation**\n\n#### Stable releases\n\n![GitHub release](https://img.shields.io/github/v/release/LunarEclipseStudios/Fancy-Foliage)\n\nThe latest releases of Two Moons is published to our [GitHub release](https://github.com/LunarEclipseStudios/Fancy-Foliage/releases) pages. \nReleases are considered to be **suitable for general use**, but they are not guaranteed to be free of bugs and other issues.\n\n---\n\n## **Community**\n[![Discord chat](https://img.shields.io/badge/chat%20on-discord-7289DA?logo=discord&logoColor=white)](https://discord.lunareclipse.studio)\n\nWe have an [official Discord community.](https://discord.lunareclipse.studio) By joining, you can:\n- Get installation help and technical support\n- Be notified of the latest developments as they happen\n- just hang out with the rest of our community.\n\n---\n\n## **License**\n\nThis project is licensed under the Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0) license. Feel free to use and modify the mod/datapack as you see fit, as long as you give credit to the original authors, do not use it for commercial purposes, and share any modifications under the same license. See the [LICENSE](https://github.com/LunarEclipseStudios/Fancy-Foliage/blob/main/LICENSE.md) file for more details.\n\n---\n\n## **Website**\nFeel free to check out our website!\nhttps://lunareclipse.studio",
+          "published": "2023-02-12T23:48:09.089249Z",
+          "updated": "2023-02-12T23:49:51.085461Z",
+          "status": "approved",
+          "license": {
+            "id": "CC-BY-NC-SA-4.0",
+            "name": "Creative Commons Attribution Non Commercial Share Alike 4.0 International"
+          },
+          "client_side": "required",
+          "server_side": "unsupported",
+          "categories": [
+            "decoration",
+            "tweaks",
+            "vanilla-like"
+          ],
+          "icon_url": "https://cdn.modrinth.com/data/1if5M57A/a8cbdbd62d6395bbf014c83364ac17cd762fbc51.png",
+          "issues_url": "https://discord.lunareclipse.studio",
+          "source_url": "https://github.com/LunarEclipseStudios/Fancy-Foliage",
+          "wiki_url": "https://lunareclipse.studio/creations/fancy-foliage",
+          "discord_url": "https://discord.lunareclipse.studio",
+          "donation_urls": [],
+          "gallery": [
+            {
+              "url": "https://cdn.modrinth.com/data/1if5M57A/images/096e7bc808b3a060940ffea879c79517d463917c.png",
+              "featured": true,
+              "created": "2023-02-12T23:54:28.624536Z",
+              "ordering": 0.0
+            },
+            {
+              "url": "https://cdn.modrinth.com/data/1if5M57A/images/e9540f9cfb7d1e9c47a0543aa524b4de3b0c7f9a.png",
+              "featured": false,
+              "created": "2023-02-12T23:54:33.939851Z",
+              "ordering": 0.0
+            },
+            {
+              "url": "https://cdn.modrinth.com/data/1if5M57A/images/2dff98a22d91909f2a219700a5f3877a9f2c89ef.png",
+              "featured": false,
+              "created": "2023-02-12T23:54:38.835114Z",
+              "ordering": 0.0
+            },
+            {
+              "url": "https://cdn.modrinth.com/data/1if5M57A/images/07701f83eca06ea7b721cb8dc61838d271fa933d.png",
+              "featured": false,
+              "created": "2023-02-12T23:54:44.908166Z",
+              "ordering": 0.0
+            },
+            {
+              "url": "https://cdn.modrinth.com/data/1if5M57A/images/c7947e8c8bfa60cb2661ea0214c44cc48fb53858.png",
+              "featured": false,
+              "created": "2023-02-12T23:54:49.471945Z",
+              "ordering": 0.0
+            },
+            {
+              "url": "https://cdn.modrinth.com/data/1if5M57A/images/1cf2b4ddccd656b67cf7365c55fbd8b758e8925d.png",
+              "featured": false,
+              "created": "2023-02-12T23:55:08.425651Z",
+              "ordering": 0.0
+            }
+          ]
+        },
+        "modrinthVersion": {
+          "id": "xRX5NWNc",
+          "project_id": "1if5M57A",
+          "author_id": "SWj7jCxK",
+          "name": "?Release v1.0.1 - 1.19",
+          "version_number": "1.0.1",
+          "changelog": "## **? Technical**\n- Added support for every other English language",
+          "date_published": "2023-02-12T23:49:51.786431Z",
+          "version_type": "release",
+          "files": [
+            {
+              "hashes": {
+                "sha512": "d4d881097c6b8df0b489d9a39169f65952b1452f4bd0e38a2114c3636b4827341bde99ea14b35132626139036a9bc8903420a50d089cd602c8a35e3e630e4ada",
+                "sha1": "8b51c76ebdc7c9becaafa23c3993d9dd0a9fb666"
+              },
+              "url": "https://cdn.modrinth.com/data/1if5M57A/versions/xRX5NWNc/Fancy-Foliage-1.19x-1.0.1-Resource-Pack.zip",
+              "filename": "Fancy-Foliage-1.19x-1.0.1-Resource-Pack.zip",
+              "primary": true,
+              "size": 131201
+            }
+          ],
+          "dependencies": [],
+          "game_versions": [
+            "1.19",
+            "1.19.1",
+            "1.19.2",
+            "1.19.3"
+          ],
+          "loaders": [
+            "minecraft"
+          ]
+        }
+      },
+      {
+        "name": "Mod Menu Helper.zip",
+        "version": "Unknown",
+        "optional": true,
+        "file": "Mod Menu Helper.zip",
+        "type": "resourcepack",
+        "disabled": false,
+        "userAdded": true,
+        "wasSelected": true,
+        "skipped": false
+      },
+      {
+        "name": "no-beacon-beam.zip",
+        "version": "Unknown",
+        "optional": true,
+        "file": "no-beacon-beam.zip",
+        "type": "resourcepack",
+        "disabled": false,
+        "userAdded": true,
+        "wasSelected": true,
+        "skipped": false
+      },
+      {
+        "name": "VanillaTweaks_r485065.zip",
+        "version": "Unknown",
+        "optional": true,
+        "file": "VanillaTweaks_r485065.zip",
+        "type": "resourcepack",
+        "disabled": false,
+        "userAdded": true,
+        "wasSelected": true,
+        "skipped": false
+      },
+      {
+        "name": "Whimzee's Better Jungle Temple - RESOURCE PACK.zip",
+        "version": "Unknown",
+        "optional": true,
+        "file": "Whimzee's Better Jungle Temple - RESOURCE PACK.zip",
+        "type": "resourcepack",
+        "disabled": false,
+        "userAdded": true,
+        "wasSelected": true,
+        "skipped": false
       }
     ],
     "ignoredUpdates": [],
     "ignoreAllUpdates": false,
     "vanillaInstance": false,
-    "lastPlayed": 0,
-    "numPlays": 0
+    "lastPlayed": 1680550492056,
+    "numPlays": 1,
+    "lastExportName": "OuterCraft 1.0",
+    "lastExportVersion": "1.19.2",
+    "lastExportAuthor": "arthurbos",
+    "lastExportSaveTo": "C:\\Users\\User\\AppData\\Roaming\\ATLauncher\\instances\\OuterCraft10"
   },
   "id": "1.19.2",
   "complianceLevel": 1,
